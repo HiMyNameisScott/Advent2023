@@ -1,0 +1,6002 @@
+Input Read
+toSan: gsjgklneight6zqfz
+l: gsjgklneight6zqfz
+r: gsjgkln86zqfz
+1: 8_
+2: 86
+86
+toSan: 7one718onegfqtdbtxfcmd
+l: 7one718onegfqtdbtxfcmd
+r: 717181gfqtdbtxfcmd
+1: 76
+2: 71
+71
+toSan: xvtfhkm8c9
+l: xvtfhkm8c9
+r: xvtfhkm8c9
+1: 81
+2: 89
+89
+toSan: 914two8
+l: 914two8
+r: 91428
+1: 99
+2: 98
+98
+toSan: vxzzvdhfqfsix83c1ttvbbstxgdrkfcnmm3
+l: vxzzvdhfqfsix83c1ttvbbstxgdrkfcnmm3
+r: vxzzvdhfqf683c1ttvbbstxgdrkfcnmm3
+1: 68
+2: 63
+63
+toSan: 76mkvhmbkpm
+l: 76mkvhmbkpm
+r: 76mkvhmbkpm
+1: 73
+2: 76
+76
+toSan: 8sixssmlzlhrnineggmrvg6
+l: 8sixssmlzlhrnineggmrvg6
+r: 86ssmlzlhr9ggmrvg6
+1: 86
+2: 86
+86
+toSan: threeninedtr7219
+l: threeninedtr7219
+r: 39dtr7219
+1: 36
+2: 39
+39
+toSan: two2geight
+l: two2geight
+r: 22g8
+1: 29
+2: 28
+28
+toSan: 3nine9fivetwo9twohxhc8
+l: 3nine9fivetwo9twohxhc8
+r: 399fivetwo92hxhc8
+1: 38
+2: 38
+38
+toSan: llbfmnzzntdcfbslcl3xxvz
+l: llbfmnzzntdcfbslcl3xxvz
+r: llbfmnzzntdcfbslcl3xxvz
+1: 38
+2: 33
+33
+toSan: two3leighttvpkfmjhhonefour
+l: two3leighttvpkfmjhhonefour
+r: 23leighttvpkfmjhhone4
+1: 23
+2: 24
+24
+toSan: 1b9four
+l: 1b9four
+r: 1b94
+1: 14
+2: 14
+14
+toSan: fivefdlqonesj2six
+l: fivefdlqonesj2six
+r: 5fdlqonesj26
+1: 54
+2: 56
+56
+toSan: hfptgztwosix8
+l: hfptgztwosix8
+r: hfptgz268
+1: 26
+2: 28
+28
+toSan: fourkcxqfgxbsvjj3472
+l: fourkcxqfgxbsvjj3472
+r: 4kcxqfgxbsvjj3472
+1: 48
+2: 42
+42
+toSan: xhzs7rdphtxhtwo
+l: xhzs7rdphtxhtwo
+r: xhzs7rdphtxh2
+1: 72
+2: 72
+72
+toSan: eightthree51
+l: eightthree51
+r: 8351
+1: 82
+2: 81
+81
+toSan: 3nmronemlqzfxgonepkh
+l: 3nmronemlqzfxgonepkh
+r: 3nmr1mlqzfxg1pkh
+1: 31
+2: 31
+31
+toSan: 9vnxqtjjrsg
+l: 9vnxqtjjrsg
+r: 9vnxqtjjrsg
+1: 91
+2: 99
+99
+toSan: 533fivesixrvqfxjrdhl
+l: 533fivesixrvqfxjrdhl
+r: 53356rvqfxjrdhl
+1: 59
+2: 56
+56
+toSan: bkrljtkjb42fqnp
+l: bkrljtkjb42fqnp
+r: bkrljtkjb42fqnp
+1: 46
+2: 42
+42
+toSan: 4mrh734
+l: 4mrh734
+r: 4mrh734
+1: 42
+2: 44
+44
+toSan: threefourfive83l
+l: threefourfive83l
+r: 3four583l
+1: 34
+2: 33
+33
+toSan: lcjftnpqfourfivesixtwof3
+l: lcjftnpqfourfivesixtwof3
+r: lcjftnpq4fivesix2f3
+1: 43
+2: 43
+43
+toSan: sevennineh7two3
+l: sevennineh7two3
+r: 7nineh723
+1: 73
+2: 73
+73
+toSan: onecgrmb74ctxhg
+l: onecgrmb74ctxhg
+r: 1cgrmb74ctxhg
+1: 13
+2: 14
+14
+toSan: kmvtdrxvrfivethree2
+l: kmvtdrxvrfivethree2
+r: kmvtdrxvr532
+1: 54
+2: 52
+52
+toSan: seven98mflv
+l: seven98mflv
+r: 798mflv
+1: 72
+2: 78
+78
+toSan: tmoneightzstdjqjncnkpkknzoneonethreefive7
+l: tmoneightzstdjqjncnkpkknzoneonethreefive7
+r: tm1ightzstdjqjncnkpkknzoneonethree57
+1: 18
+2: 17
+17
+toSan: fourzsqjbffmxf6lsqdttjfive1nine
+l: fourzsqjbffmxf6lsqdttjfive1nine
+r: 4zsqjbffmxf6lsqdttjfive19
+1: 47
+2: 49
+49
+toSan: ccs3onesgmmrb
+l: ccs3onesgmmrb
+r: ccs31sgmmrb
+1: 39
+2: 31
+31
+toSan: kflkpscthreehjjgckfrfdhc3krgntwofour
+l: kflkpscthreehjjgckfrfdhc3krgntwofour
+r: kflkpsc3hjjgckfrfdhc3krgntwo4
+1: 31
+2: 34
+34
+toSan: 7five2134
+l: 7five2134
+r: 752134
+1: 74
+2: 74
+74
+toSan: pnfbrjhgprdsvzjrklrclmlgkk69four4
+l: pnfbrjhgprdsvzjrklrclmlgkk69four4
+r: pnfbrjhgprdsvzjrklrclmlgkk6944
+1: 64
+2: 64
+64
+toSan: cheightwofourxt2
+l: cheightwofourxt2
+r: ch8wo4xt2
+1: 84
+2: 82
+82
+toSan: 1167threetfqstpkc
+l: 1167threetfqstpkc
+r: 11673tfqstpkc
+1: 12
+2: 13
+13
+toSan: 6dsk2bhqmonejggkpvffhgnrbsix
+l: 6dsk2bhqmonejggkpvffhgnrbsix
+r: 6dsk2bhqm1jggkpvffhgnrb6
+1: 63
+2: 66
+66
+toSan: five9threefour
+l: five9threefour
+r: 59three4
+1: 56
+2: 54
+54
+toSan: one3136four
+l: one3136four
+r: 131364
+1: 14
+2: 14
+14
+toSan: vvncdsg6jnxlbsb3
+l: vvncdsg6jnxlbsb3
+r: vvncdsg6jnxlbsb3
+1: 64
+2: 63
+63
+toSan: fgftp5
+l: fgftp5
+r: fgftp5
+1: 53
+2: 55
+55
+toSan: xxscpztpxteightv4mprlzmdhxtxmpvgfour
+l: xxscpztpxteightv4mprlzmdhxtxmpvgfour
+r: xxscpztpxt8v4mprlzmdhxtxmpvg4
+1: 85
+2: 84
+84
+toSan: g4
+l: g4
+r: g4
+1: 44
+2: 44
+44
+toSan: eightmbqbrxjbdx5
+l: eightmbqbrxjbdx5
+r: 8mbqbrxjbdx5
+1: 84
+2: 85
+85
+toSan: 8nineeighttwo6lcsvmvxdqbgpdbtjnnine
+l: 8nineeighttwo6lcsvmvxdqbgpdbtjnnine
+r: 89eighttwo6lcsvmvxdqbgpdbtjn9
+1: 85
+2: 89
+89
+toSan: jkj86threeskgpnl3four
+l: jkj86threeskgpnl3four
+r: jkj863skgpnl34
+1: 89
+2: 84
+84
+toSan: rtmpn5cbtthreefgxnhhvlkxcbtknnine
+l: rtmpn5cbtthreefgxnhhvlkxcbtknnine
+r: rtmpn5cbt3fgxnhhvlkxcbtkn9
+1: 54
+2: 59
+59
+toSan: 7dpn6cqstqrv7sbgzxhgrqrgn
+l: 7dpn6cqstqrv7sbgzxhgrqrgn
+r: 7dpn6cqstqrv7sbgzxhgrqrgn
+1: 79
+2: 77
+77
+toSan: 3fivetxgjgndz1
+l: 3fivetxgjgndz1
+r: 35txgjgndz1
+1: 37
+2: 31
+31
+toSan: tfmkd8three2
+l: tfmkd8three2
+r: tfmkd832
+1: 81
+2: 82
+82
+toSan: rcl55cvnfour9twofive
+l: rcl55cvnfour9twofive
+r: rcl55cvn49two5
+1: 52
+2: 55
+55
+toSan: dmgdbkfjvsnpctj69four5
+l: dmgdbkfjvsnpctj69four5
+r: dmgdbkfjvsnpctj6945
+1: 65
+2: 65
+65
+toSan: xjlrvznbgl78eight
+l: xjlrvznbgl78eight
+r: xjlrvznbgl788
+1: 75
+2: 78
+78
+toSan: dmhkvgbc6four6eightwofkk
+l: dmhkvgbc6four6eightwofkk
+r: dmhkvgbc646eigh2fkk
+1: 68
+2: 62
+62
+toSan: zlhzn898scffour
+l: zlhzn898scffour
+r: zlhzn898scf4
+1: 82
+2: 84
+84
+toSan: bdeighttxntvnslbf1nine59
+l: bdeighttxntvnslbf1nine59
+r: bd8txntvnslbf1959
+1: 84
+2: 89
+89
+toSan: htjltzmzeight5foureightdvv
+l: htjltzmzeight5foureightdvv
+r: htjltzmz85four8dvv
+1: 89
+2: 88
+88
+toSan: 45fourl2
+l: 45fourl2
+r: 454l2
+1: 48
+2: 42
+42
+toSan: seventhree39fivesixtwokchzgc
+l: seventhree39fivesixtwokchzgc
+r: 7three39fivesix2kchzgc
+1: 72
+2: 72
+72
+toSan: fxtbgsxch1lmdsldthreefour8rkxjz9
+l: fxtbgsxch1lmdsldthreefour8rkxjz9
+r: fxtbgsxch1lmdsld348rkxjz9
+1: 12
+2: 19
+19
+toSan: five3five8
+l: five3five8
+r: 5358
+1: 59
+2: 58
+58
+toSan: threefvfcxnfgskqjdjknrgkvnkl6
+l: threefvfcxnfgskqjdjknrgkvnkl6
+r: 3fvfcxnfgskqjdjknrgkvnkl6
+1: 38
+2: 36
+36
+toSan: 8jzdkxm
+l: 8jzdkxm
+r: 8jzdkxm
+1: 86
+2: 88
+88
+toSan: plttwo2fourseven99zthrklvcvp
+l: plttwo2fourseven99zthrklvcvp
+r: plt22four799zthrklvcvp
+1: 28
+2: 29
+29
+toSan: gxjfdnzrcj2847eightnine
+l: gxjfdnzrcj2847eightnine
+r: gxjfdnzrcj284789
+1: 29
+2: 29
+29
+toSan: 2onetwoxdc
+l: 2onetwoxdc
+r: 212xdc
+1: 29
+2: 22
+22
+toSan: 35zlpzpvfn77
+l: 35zlpzpvfn77
+r: 35zlpzpvfn77
+1: 32
+2: 37
+37
+toSan: nxppmskvrd1one89eightfive
+l: nxppmskvrd1one89eightfive
+r: nxppmskvrd1189eight5
+1: 17
+2: 15
+15
+toSan: glhp52f
+l: glhp52f
+r: glhp52f
+1: 55
+2: 52
+52
+toSan: mpptktkhrbbcsdheighteightqkjgckvxs6fourseven
+l: mpptktkhrbbcsdheighteightqkjgckvxs6fourseven
+r: mpptktkhrbbcsdh8eightqkjgckvxs6four7
+1: 82
+2: 87
+87
+toSan: 1ninelspvpm
+l: 1ninelspvpm
+r: 19lspvpm
+1: 17
+2: 19
+19
+toSan: threefqn551
+l: threefqn551
+r: 3fqn551
+1: 39
+2: 31
+31
+toSan: eight95lhxrtwoh2hbnd
+l: eight95lhxrtwoh2hbnd
+r: 895lhxr2h2hbnd
+1: 81
+2: 82
+82
+toSan: jlbclhxp72fivektxfxbtwonetxl
+l: jlbclhxp72fivektxfxbtwonetxl
+r: jlbclhxp725ktxfxbtw1txl
+1: 72
+2: 71
+71
+toSan: one7nflzdbdjchbbqqmn
+l: one7nflzdbdjchbbqqmn
+r: 17nflzdbdjchbbqqmn
+1: 11
+2: 17
+17
+toSan: fivesbgsrvzrhz2ncbkhsbrgnpbkgcsrln1zksfqkcxpf
+l: fivesbgsrvzrhz2ncbkhsbrgnpbkgcsrln1zksfqkcxpf
+r: 5sbgsrvzrhz2ncbkhsbrgnpbkgcsrln1zksfqkcxpf
+1: 57
+2: 51
+51
+toSan: 1ftfour22hvdcqrseven
+l: 1ftfour22hvdcqrseven
+r: 1ft422hvdcqr7
+1: 11
+2: 17
+17
+toSan: sevenjgrkpbxxnnv1nine6hzkrzzfl
+l: sevenjgrkpbxxnnv1nine6hzkrzzfl
+r: 7jgrkpbxxnnv196hzkrzzfl
+1: 77
+2: 76
+76
+toSan: fourthreefour98sevenbthreesix
+l: fourthreefour98sevenbthreesix
+r: 4threefour98sevenbthree6
+1: 46
+2: 46
+46
+toSan: sixgrrjkl3gdzz86onejpjlbpnthree
+l: sixgrrjkl3gdzz86onejpjlbpnthree
+r: 6grrjkl3gdzz86onejpjlbpn3
+1: 66
+2: 63
+63
+toSan: vhx3tnzcjvgg
+l: vhx3tnzcjvgg
+r: vhx3tnzcjvgg
+1: 33
+2: 33
+33
+toSan: six3one4sixeighttwosbkqdjfhfroneights
+l: six3one4sixeighttwosbkqdjfhfroneights
+r: 63one4sixeighttwosbkqdjfhfron8s
+1: 63
+2: 68
+68
+toSan: 669eighteight32seven
+l: 669eighteight32seven
+r: 6698eight327
+1: 68
+2: 67
+67
+toSan: jdpzkdnngc6bvqvtxtxfivesixthreedndsqmv
+l: jdpzkdnngc6bvqvtxtxfivesixthreedndsqmv
+r: jdpzkdnngc6bvqvtxtx5six3dndsqmv
+1: 67
+2: 63
+63
+toSan: 9eight6ssxcdt6fivedsnine
+l: 9eight6ssxcdt6fivedsnine
+r: 986ssxcdt6fiveds9
+1: 93
+2: 99
+99
+toSan: nine3onetjmdqpktwo
+l: nine3onetjmdqpktwo
+r: 93onetjmdqpk2
+1: 99
+2: 92
+92
+toSan: ninejjzrklhptsdzbt6tmxnpbrm
+l: ninejjzrklhptsdzbt6tmxnpbrm
+r: 9jjzrklhptsdzbt6tmxnpbrm
+1: 92
+2: 96
+96
+toSan: eightsevensixtxvxlqtdjfivebnvpdhvfsqbbssfkplzmkvvxh7
+l: eightsevensixtxvxlqtdjfivebnvpdhvfsqbbssfkplzmkvvxh7
+r: 8sevensixtxvxlqtdj5bnvpdhvfsqbbssfkplzmkvvxh7
+1: 86
+2: 87
+87
+toSan: xmeightone5cjgn1nhjsthree5
+l: xmeightone5cjgn1nhjsthree5
+r: xm8one5cjgn1nhjs35
+1: 87
+2: 85
+85
+toSan: xncbclzqqgskthree14bptlrknkmpntxmnf
+l: xncbclzqqgskthree14bptlrknkmpntxmnf
+r: xncbclzqqgsk314bptlrknkmpntxmnf
+1: 35
+2: 34
+34
+toSan: sevenfour8
+l: sevenfour8
+r: 748
+1: 74
+2: 78
+78
+toSan: 34
+l: 34
+r: 34
+1: 38
+2: 34
+34
+toSan: 5ccslrvbfive
+l: 5ccslrvbfive
+r: 5ccslrvb5
+1: 54
+2: 55
+55
+toSan: sixsixlqf72
+l: sixsixlqf72
+r: 66lqf72
+1: 65
+2: 62
+62
+toSan: kknmskkfivezcmjrgfgclgrz1
+l: kknmskkfivezcmjrgfgclgrz1
+r: kknmskk5zcmjrgfgclgrz1
+1: 52
+2: 51
+51
+toSan: gqxtmrsqxfour12vlonefive
+l: gqxtmrsqxfour12vlonefive
+r: gqxtmrsqx412vlone5
+1: 41
+2: 45
+45
+toSan: four8594kxsc
+l: four8594kxsc
+r: 48594kxsc
+1: 45
+2: 44
+44
+toSan: 364
+l: 364
+r: 364
+1: 34
+2: 34
+34
+toSan: hrbfxdpfivesevenjcjdm3nine9sixsh
+l: hrbfxdpfivesevenjcjdm3nine9sixsh
+r: hrbfxdp5sevenjcjdm3nine96sh
+1: 54
+2: 56
+56
+toSan: mml5five
+l: mml5five
+r: mml55
+1: 56
+2: 55
+55
+toSan: btcqdx7jjsix
+l: btcqdx7jjsix
+r: btcqdx7jj6
+1: 75
+2: 76
+76
+toSan: 4558seven4mjzsix
+l: 4558seven4mjzsix
+r: 455874mjz6
+1: 46
+2: 46
+46
+toSan: 1mfckqcfk
+l: 1mfckqcfk
+r: 1mfckqcfk
+1: 16
+2: 11
+11
+toSan: 4pjtbd18ghnnjqmjm6cvcdgjlcrmxpnnts
+l: 4pjtbd18ghnnjqmjm6cvcdgjlcrmxpnnts
+r: 4pjtbd18ghnnjqmjm6cvcdgjlcrmxpnnts
+1: 41
+2: 46
+46
+toSan: eight6hd
+l: eight6hd
+r: 86hd
+1: 86
+2: 86
+86
+toSan: cdjdhpjccncpmrfour9qxlqfivenxjfssftnq
+l: cdjdhpjccncpmrfour9qxlqfivenxjfssftnq
+r: cdjdhpjccncpmr49qxlq5nxjfssftnq
+1: 46
+2: 45
+45
+toSan: 5bchcbpjxnsbkxgbqgbr
+l: 5bchcbpjxnsbkxgbqgbr
+r: 5bchcbpjxnsbkxgbqgbr
+1: 55
+2: 55
+55
+toSan: sixlhnzzmkbfourhzp58onetwoseven
+l: sixlhnzzmkbfourhzp58onetwoseven
+r: 6lhnzzmkbfourhzp58onetwo7
+1: 65
+2: 67
+67
+toSan: kfgkqfivek3br
+l: kfgkqfivek3br
+r: kfgkq5k3br
+1: 57
+2: 53
+53
+toSan: fnklssmgnine4eight
+l: fnklssmgnine4eight
+r: fnklssmg948
+1: 93
+2: 98
+98
+toSan: rbbnjvgpkgbs65sevenmeightsevennine
+l: rbbnjvgpkgbs65sevenmeightsevennine
+r: rbbnjvgpkgbs657meightseven9
+1: 68
+2: 69
+69
+toSan: 8ninenzgpldnfgjjmbqpmqvgqcthree5seven2
+l: 8ninenzgpldnfgjjmbqpmqvgqcthree5seven2
+r: 89nzgpldnfgjjmbqpmqvgqcthree572
+1: 89
+2: 82
+82
+toSan: seven6pdrgrldhtldhmndbjpj
+l: seven6pdrgrldhtldhmndbjpj
+r: 76pdrgrldhtldhmndbjpj
+1: 72
+2: 76
+76
+toSan: 5three4zmjpslhh
+l: 5three4zmjpslhh
+r: 534zmjpslhh
+1: 56
+2: 54
+54
+toSan: threesixsix45
+l: threesixsix45
+r: 3six645
+1: 34
+2: 35
+35
+toSan: szxnvzrkseven2tctf
+l: szxnvzrkseven2tctf
+r: szxnvzrk72tctf
+1: 75
+2: 72
+72
+toSan: xqzpninesixseven5dndlqd7
+l: xqzpninesixseven5dndlqd7
+r: xqzp9six75dndlqd7
+1: 92
+2: 97
+97
+toSan: three6ghhzcvpkfivervsgplxq
+l: three6ghhzcvpkfivervsgplxq
+r: 36ghhzcvpk5rvsgplxq
+1: 37
+2: 35
+35
+toSan: eighttwoeightlfntmxptgk2pngplvr39
+l: eighttwoeightlfntmxptgk2pngplvr39
+r: 8two8lfntmxptgk2pngplvr39
+1: 85
+2: 89
+89
+toSan: 33ninenine4fivejseven6
+l: 33ninenine4fivejseven6
+r: 339nine4fivej76
+1: 39
+2: 36
+36
+toSan: fivehxbmjvxxrzrqr29npqhhlsjr2ttmnl
+l: fivehxbmjvxxrzrqr29npqhhlsjr2ttmnl
+r: 5hxbmjvxxrzrqr29npqhhlsjr2ttmnl
+1: 56
+2: 52
+52
+toSan: slmltqplzl73dxkxrpgn
+l: slmltqplzl73dxkxrpgn
+r: slmltqplzl73dxkxrpgn
+1: 72
+2: 73
+73
+toSan: lxg4371three
+l: lxg4371three
+r: lxg43713
+1: 43
+2: 43
+43
+toSan: tjxsmjnthreefive5fivemshrhhj
+l: tjxsmjnthreefive5fivemshrhhj
+r: tjxsmjn3five55mshrhhj
+1: 33
+2: 35
+35
+toSan: 5eighttwo
+l: 5eighttwo
+r: 582
+1: 55
+2: 52
+52
+toSan: sixbpqtcrjzmveighteightjzgktzss1
+l: sixbpqtcrjzmveighteightjzgktzss1
+r: 6bpqtcrjzmveight8jzgktzss1
+1: 62
+2: 61
+61
+toSan: 1qxjz57sixzh
+l: 1qxjz57sixzh
+r: 1qxjz576zh
+1: 11
+2: 16
+16
+toSan: 4djpqz54122
+l: 4djpqz54122
+r: 4djpqz54122
+1: 46
+2: 42
+42
+toSan: threeclg1ng7kgprvd
+l: threeclg1ng7kgprvd
+r: 3clg1ng7kgprvd
+1: 32
+2: 37
+37
+toSan: 3143threenine71
+l: 3143threenine71
+r: 31433971
+1: 37
+2: 31
+31
+toSan: kcxmcthreesixeight23
+l: kcxmcthreesixeight23
+r: kcxmc3six823
+1: 31
+2: 33
+33
+toSan: 4zhvn4five
+l: 4zhvn4five
+r: 4zhvn45
+1: 43
+2: 45
+45
+toSan: lmxfone47fbdsixjgl
+l: lmxfone47fbdsixjgl
+r: lmxf147fbd6jgl
+1: 15
+2: 16
+16
+toSan: kzcdzp2
+l: kzcdzp2
+r: kzcdzp2
+1: 26
+2: 22
+22
+toSan: 27twozjbtr
+l: 27twozjbtr
+r: 272zjbtr
+1: 22
+2: 22
+22
+toSan: gpvkqdpbpzthreeone5
+l: gpvkqdpbpzthreeone5
+r: gpvkqdpbpz315
+1: 32
+2: 35
+35
+toSan: bqvneightseven8qll
+l: bqvneightseven8qll
+r: bqvn878qll
+1: 85
+2: 88
+88
+toSan: seven8brjrp272none
+l: seven8brjrp272none
+r: 78brjrp272n1
+1: 78
+2: 71
+71
+toSan: 3kxhglddkjklkl
+l: 3kxhglddkjklkl
+r: 3kxhglddkjklkl
+1: 31
+2: 33
+33
+toSan: 5sevennine52nine
+l: 5sevennine52nine
+r: 57nine529
+1: 53
+2: 59
+59
+toSan: 3fourgznkfpfsxzsnmoneqsixtsm
+l: 3fourgznkfpfsxzsnmoneqsixtsm
+r: 34gznkfpfsxzsnmoneq6tsm
+1: 39
+2: 36
+36
+toSan: twothreemkz6ttrtbj8
+l: twothreemkz6ttrtbj8
+r: 23mkz6ttrtbj8
+1: 26
+2: 28
+28
+toSan: qoneight28fourninempvltzrtzgvfdcdlxv
+l: qoneight28fourninempvltzrtzgvfdcdlxv
+r: q1ight28four9mpvltzrtzgvfdcdlxv
+1: 18
+2: 19
+19
+toSan: rllmkpvgqnkdgdrseven2five3
+l: rllmkpvgqnkdgdrseven2five3
+r: rllmkpvgqnkdgdr7253
+1: 79
+2: 73
+73
+toSan: 7eight89fourlkfourfivejkqgffz
+l: 7eight89fourlkfourfivejkqgffz
+r: 7889fourlkfour5jkqgffz
+1: 73
+2: 75
+75
+toSan: four6xr
+l: four6xr
+r: 46xr
+1: 45
+2: 46
+46
+toSan: 6sixfive2hhzdkskxnine3nine
+l: 6sixfive2hhzdkskxnine3nine
+r: 66five2hhzdkskxnine39
+1: 66
+2: 69
+69
+toSan: two6qmmkhb9eight
+l: two6qmmkhb9eight
+r: 26qmmkhb98
+1: 29
+2: 28
+28
+toSan: cqfxnmrlnhcsdqqxkn2nsncgvdxgmnineeight
+l: cqfxnmrlnhcsdqqxkn2nsncgvdxgmnineeight
+r: cqfxnmrlnhcsdqqxkn2nsncgvdxgm98
+1: 28
+2: 28
+28
+toSan: 7sixsdsfour4mrxeight
+l: 7sixsdsfour4mrxeight
+r: 76sdsfour4mrx8
+1: 78
+2: 78
+78
+toSan: 44threetcmtzmxzgjonesixnine8seven
+l: 44threetcmtzmxzgjonesixnine8seven
+r: 443tcmtzmxzgjonesixnine87
+1: 48
+2: 47
+47
+toSan: dlonethreejh6bgxxmlkdseightwokp
+l: dlonethreejh6bgxxmlkdseightwokp
+r: dl1threejh6bgxxmlkdseigh2kp
+1: 17
+2: 12
+12
+toSan: four3lspkhhtsmone
+l: four3lspkhhtsmone
+r: 43lspkhhtsm1
+1: 42
+2: 41
+41
+toSan: 89hjtnrrpvfzjdkzp
+l: 89hjtnrrpvfzjdkzp
+r: 89hjtnrrpvfzjdkzp
+1: 81
+2: 89
+89
+toSan: xc4sixvzpccdblczvleight7
+l: xc4sixvzpccdblczvleight7
+r: xc46vzpccdblczvl87
+1: 49
+2: 47
+47
+toSan: 2twotwogzqhp9vnbp
+l: 2twotwogzqhp9vnbp
+r: 222gzqhp9vnbp
+1: 27
+2: 29
+29
+toSan: rxsplmvb1two8pdtnxtbthreefiveeight
+l: rxsplmvb1two8pdtnxtbthreefiveeight
+r: rxsplmvb128pdtnxtbthreefive8
+1: 19
+2: 18
+18
+toSan: bsfdmnnj8eight
+l: bsfdmnnj8eight
+r: bsfdmnnj88
+1: 88
+2: 88
+88
+toSan: rntszdckhhcmqn21ljzqbhn
+l: rntszdckhhcmqn21ljzqbhn
+r: rntszdckhhcmqn21ljzqbhn
+1: 28
+2: 21
+21
+toSan: nineeight8
+l: nineeight8
+r: 988
+1: 91
+2: 98
+98
+toSan: 1fhmnzzlfjpdp3ptj8threejqvmstbtp
+l: 1fhmnzzlfjpdp3ptj8threejqvmstbtp
+r: 1fhmnzzlfjpdp3ptj83jqvmstbtp
+1: 18
+2: 13
+13
+toSan: 267
+l: 267
+r: 267
+1: 23
+2: 27
+27
+toSan: hkknsfivecrhthvbhhqj1
+l: hkknsfivecrhthvbhhqj1
+r: hkkns5crhthvbhhqj1
+1: 57
+2: 51
+51
+toSan: six6xcqpnj9fivezcqbrfour4
+l: six6xcqpnj9fivezcqbrfour4
+r: 66xcqpnj9fivezcqbr44
+1: 61
+2: 64
+64
+toSan: 8one2gfsgg
+l: 8one2gfsgg
+r: 812gfsgg
+1: 84
+2: 82
+82
+toSan: mszrrqmr4nine9
+l: mszrrqmr4nine9
+r: mszrrqmr499
+1: 42
+2: 49
+49
+toSan: 5fournine43three
+l: 5fournine43three
+r: 54nine433
+1: 59
+2: 53
+53
+toSan: 5one9hvvrthreethreef3
+l: 5one9hvvrthreethreef3
+r: 519hvvrthree3f3
+1: 53
+2: 53
+53
+toSan: ninetwo6twofivefivennhjqkhzntkqptfxvdj
+l: ninetwo6twofivefivennhjqkhzntkqptfxvdj
+r: 9two6twofive5nnhjqkhzntkqptfxvdj
+1: 93
+2: 95
+95
+toSan: 9onetwo5fiveeightnine8
+l: 9onetwo5fiveeightnine8
+r: 91two5fiveeight98
+1: 95
+2: 98
+98
+toSan: nineseventslmmgnsjbdgsb2sixlmvxpdg6
+l: nineseventslmmgnsjbdgsb2sixlmvxpdg6
+r: 9seventslmmgnsjbdgsb26lmvxpdg6
+1: 98
+2: 96
+96
+toSan: 8nineonethreehghh
+l: 8nineonethreehghh
+r: 89one3hghh
+1: 86
+2: 83
+83
+toSan: jd1kr
+l: jd1kr
+r: jd1kr
+1: 13
+2: 11
+11
+toSan: drrsxljl4
+l: drrsxljl4
+r: drrsxljl4
+1: 41
+2: 44
+44
+toSan: fqhfjdxdlsgjgkhcpjkqpgzjgchsixrvzqn7
+l: fqhfjdxdlsgjgkhcpjkqpgzjgchsixrvzqn7
+r: fqhfjdxdlsgjgkhcpjkqpgzjgch6rvzqn7
+1: 64
+2: 67
+67
+toSan: 7one2qsnxhfqkseven6
+l: 7one2qsnxhfqkseven6
+r: 712qsnxhfqk76
+1: 77
+2: 76
+76
+toSan: 1vhljtwo1oneightqm
+l: 1vhljtwo1oneightqm
+r: 1vhlj21on8qm
+1: 16
+2: 18
+18
+toSan: gl3
+l: gl3
+r: gl3
+1: 38
+2: 33
+33
+toSan: two2eight1threethree
+l: two2eight1threethree
+r: 22eight1three3
+1: 23
+2: 23
+23
+toSan: 64nine
+l: 64nine
+r: 649
+1: 63
+2: 69
+69
+toSan: qglkhnfffsnine2three566three
+l: qglkhnfffsnine2three566three
+r: qglkhnfffs92three5663
+1: 99
+2: 93
+93
+toSan: 7sixtwo6trbbklgjteighttwo
+l: 7sixtwo6trbbklgjteighttwo
+r: 76two6trbbklgjteight2
+1: 73
+2: 72
+72
+toSan: nkccpeight4sevensevenone
+l: nkccpeight4sevensevenone
+r: nkccp84sevenseven1
+1: 82
+2: 81
+81
+toSan: eight9ldkvgqhq3
+l: eight9ldkvgqhq3
+r: 89ldkvgqhq3
+1: 81
+2: 83
+83
+toSan: ttkqpxpzrxph1zfzhbvbgvn
+l: ttkqpxpzrxph1zfzhbvbgvn
+r: ttkqpxpzrxph1zfzhbvbgvn
+1: 13
+2: 11
+11
+toSan: 46lqxxgrmvsix
+l: 46lqxxgrmvsix
+r: 46lqxxgrmv6
+1: 41
+2: 46
+46
+toSan: twosixcqsmjsthree8pqthmd
+l: twosixcqsmjsthree8pqthmd
+r: 2sixcqsmjs38pqthmd
+1: 26
+2: 28
+28
+toSan: ninesixdsns66lvnkhrq3
+l: ninesixdsns66lvnkhrq3
+r: 96dsns66lvnkhrq3
+1: 98
+2: 93
+93
+toSan: seven413crqjpkfqleightlgxgck
+l: seven413crqjpkfqleightlgxgck
+r: 7413crqjpkfql8lgxgck
+1: 73
+2: 78
+78
+toSan: onesxztkrtxksqklpqcmrlpjlnst6ftwo
+l: onesxztkrtxksqklpqcmrlpjlnst6ftwo
+r: 1sxztkrtxksqklpqcmrlpjlnst6f2
+1: 18
+2: 12
+12
+toSan: jzb1oneightqqr
+l: jzb1oneightqqr
+r: jzb11ightqqr
+1: 12
+2: 11
+11
+toSan: ninexrmlglbdlfqm4twolnlq
+l: ninexrmlglbdlfqm4twolnlq
+r: 9xrmlglbdlfqm42lnlq
+1: 91
+2: 92
+92
+toSan: 4seven4eightzds
+l: 4seven4eightzds
+r: 4748zds
+1: 42
+2: 48
+48
+toSan: fourngdzkklkxtsix8
+l: fourngdzkklkxtsix8
+r: 4ngdzkklkxt68
+1: 48
+2: 48
+48
+toSan: cggtwonebtkxtwothree16seven
+l: cggtwonebtkxtwothree16seven
+r: cgg2nebtkxtwothree167
+1: 28
+2: 27
+27
+toSan: three59threesix
+l: three59threesix
+r: 359three6
+1: 37
+2: 36
+36
+toSan: 3qfglrfcr4nine
+l: 3qfglrfcr4nine
+r: 3qfglrfcr49
+1: 36
+2: 39
+39
+toSan: 9seveneighttwofoureightvvhpgmpnftwo
+l: 9seveneighttwofoureightvvhpgmpnftwo
+r: 97eighttwofoureightvvhpgmpnf2
+1: 99
+2: 92
+92
+toSan: seven2sixvsmxv86
+l: seven2sixvsmxv86
+r: 726vsmxv86
+1: 72
+2: 76
+76
+toSan: mgvqr5two
+l: mgvqr5two
+r: mgvqr52
+1: 56
+2: 52
+52
+toSan: lggjffzt2six7vxflh23
+l: lggjffzt2six7vxflh23
+r: lggjffzt267vxflh23
+1: 22
+2: 23
+23
+toSan: hctpninesevenoneonevr3
+l: hctpninesevenoneonevr3
+r: hctp9sevenone1vr3
+1: 93
+2: 93
+93
+toSan: 7threeqzgzm532mn5
+l: 7threeqzgzm532mn5
+r: 73qzgzm532mn5
+1: 73
+2: 75
+75
+toSan: vltdnjhxgl6rjbmcb79s69eight
+l: vltdnjhxgl6rjbmcb79s69eight
+r: vltdnjhxgl6rjbmcb79s698
+1: 65
+2: 68
+68
+toSan: snkbpcgclpbflxbz6nkktqqgplm11bdnvpfour
+l: snkbpcgclpbflxbz6nkktqqgplm11bdnvpfour
+r: snkbpcgclpbflxbz6nkktqqgplm11bdnvp4
+1: 68
+2: 64
+64
+toSan: 75dllnlkthree93onedflbbmlvmd
+l: 75dllnlkthree93onedflbbmlvmd
+r: 75dllnlk3931dflbbmlvmd
+1: 74
+2: 71
+71
+toSan: sixthree94frdpkdccqkxv5
+l: sixthree94frdpkdccqkxv5
+r: 6394frdpkdccqkxv5
+1: 61
+2: 65
+65
+toSan: hdpsvxl2bszdpgspqgxrzz3
+l: hdpsvxl2bszdpgspqgxrzz3
+r: hdpsvxl2bszdpgspqgxrzz3
+1: 25
+2: 23
+23
+toSan: hztwonethreeeightzjqk8fivepvgrpsrxxsbfqfv
+l: hztwonethreeeightzjqk8fivepvgrpsrxxsbfqfv
+r: hz2nethreeeightzjqk85pvgrpsrxxsbfqfv
+1: 23
+2: 25
+25
+toSan: kfmh6sixv74two
+l: kfmh6sixv74two
+r: kfmh66v742
+1: 65
+2: 62
+62
+toSan: one9three5
+l: one9three5
+r: 1935
+1: 12
+2: 15
+15
+toSan: lcn2hls3three66gsfmzvlx
+l: lcn2hls3three66gsfmzvlx
+r: lcn2hls3366gsfmzvlx
+1: 25
+2: 26
+26
+toSan: tmlhhl72nhhkppscc
+l: tmlhhl72nhhkppscc
+r: tmlhhl72nhhkppscc
+1: 76
+2: 72
+72
+toSan: eightsevenprzgonethree7nine1
+l: eightsevenprzgonethree7nine1
+r: 8sevenprzgonethree791
+1: 82
+2: 81
+81
+toSan: 1rngfnx78196sixrjbbkzp
+l: 1rngfnx78196sixrjbbkzp
+r: 1rngfnx781966rjbbkzp
+1: 11
+2: 16
+16
+toSan: 6seven2182six
+l: 6seven2182six
+r: 6721826
+1: 66
+2: 66
+66
+toSan: fpsl5xbdnjbzonethreezcfqmqonefive
+l: fpsl5xbdnjbzonethreezcfqmqonefive
+r: fpsl5xbdnjbz1threezcfqmqone5
+1: 56
+2: 55
+55
+toSan: 5cxhrqzsfz34xdkvtxblkhvstcmjc
+l: 5cxhrqzsfz34xdkvtxblkhvstcmjc
+r: 5cxhrqzsfz34xdkvtxblkhvstcmjc
+1: 55
+2: 54
+54
+toSan: seven36ccqzfmmlvsevennine
+l: seven36ccqzfmmlvsevennine
+r: 736ccqzfmmlvseven9
+1: 74
+2: 79
+79
+toSan: 5nrvq2nine2
+l: 5nrvq2nine2
+r: 5nrvq292
+1: 59
+2: 52
+52
+toSan: fljzxvninetqxjjcrsvp7
+l: fljzxvninetqxjjcrsvp7
+r: fljzxv9tqxjjcrsvp7
+1: 92
+2: 97
+97
+toSan: 1ninetwosevenvdtn4qcxnblgx2two
+l: 1ninetwosevenvdtn4qcxnblgx2two
+r: 19twosevenvdtn4qcxnblgx22
+1: 17
+2: 12
+12
+toSan: dcfxp2onefourfive
+l: dcfxp2onefourfive
+r: dcfxp21four5
+1: 22
+2: 25
+25
+toSan: 6czxzpsc
+l: 6czxzpsc
+r: 6czxzpsc
+1: 65
+2: 66
+66
+toSan: threeone1grvz8pvzvzkdzjfsix
+l: threeone1grvz8pvzvzkdzjfsix
+r: 3one1grvz8pvzvzkdzjf6
+1: 36
+2: 36
+36
+toSan: hmbpnqntczjhdlsjonedr9prxvkt6one9
+l: hmbpnqntczjhdlsjonedr9prxvkt6one9
+r: hmbpnqntczjhdlsj1dr9prxvkt619
+1: 16
+2: 19
+19
+toSan: dccns9threeninexgflfjltmvlssrhkbvktcfourg
+l: dccns9threeninexgflfjltmvlssrhkbvktcfourg
+r: dccns93ninexgflfjltmvlssrhkbvktc4g
+1: 99
+2: 94
+94
+toSan: sevenhbflnmglrn4rtseventwo55
+l: sevenhbflnmglrn4rtseventwo55
+r: 7hbflnmglrn4rtseven255
+1: 74
+2: 75
+75
+toSan: threehddkrvsp11
+l: threehddkrvsp11
+r: 3hddkrvsp11
+1: 35
+2: 31
+31
+toSan: 6threegtk5five
+l: 6threegtk5five
+r: 63gtk55
+1: 61
+2: 65
+65
+toSan: 29m5
+l: 29m5
+r: 29m5
+1: 25
+2: 25
+25
+toSan: nine3threesixsevennineddgchfiveeightwovqq
+l: nine3threesixsevennineddgchfiveeightwovqq
+r: 93threesixsevennineddgchfiveeigh2vqq
+1: 95
+2: 92
+92
+toSan: 2jtgvrldnbpfncfxtq
+l: 2jtgvrldnbpfncfxtq
+r: 2jtgvrldnbpfncfxtq
+1: 22
+2: 22
+22
+toSan: eighttwo6vtgkvpqzthree
+l: eighttwo6vtgkvpqzthree
+r: 8two6vtgkvpqz3
+1: 82
+2: 83
+83
+toSan: 5sixseven
+l: 5sixseven
+r: 567
+1: 53
+2: 57
+57
+toSan: twohj3seven3fourblqqbphcbfive
+l: twohj3seven3fourblqqbphcbfive
+r: 2hj3seven3fourblqqbphcb5
+1: 27
+2: 25
+25
+toSan: 6one7twovjfqlsdgnrtzlzmjxgfljs
+l: 6one7twovjfqlsdgnrtzlzmjxgfljs
+r: 6172vjfqlsdgnrtzlzmjxgfljs
+1: 65
+2: 62
+62
+toSan: 1nv
+l: 1nv
+r: 1nv
+1: 12
+2: 11
+11
+toSan: 22five27two
+l: 22five27two
+r: 225272
+1: 21
+2: 22
+22
+toSan: 3sevenlgeighteight
+l: 3sevenlgeighteight
+r: 37lgeight8
+1: 32
+2: 38
+38
+toSan: khpjmtsskfivefivexbjnkdtwogmxcxrqdpl2
+l: khpjmtsskfivefivexbjnkdtwogmxcxrqdpl2
+r: khpjmtssk5fivexbjnkd2gmxcxrqdpl2
+1: 58
+2: 52
+52
+toSan: zmvpjtm6gzgztjrtnmgpsevenfive28vjvhmnr
+l: zmvpjtm6gzgztjrtnmgpsevenfive28vjvhmnr
+r: zmvpjtm6gzgztjrtnmgp7528vjvhmnr
+1: 62
+2: 68
+68
+toSan: 9four71
+l: 9four71
+r: 9471
+1: 98
+2: 91
+91
+toSan: 9zghgdjs
+l: 9zghgdjs
+r: 9zghgdjs
+1: 91
+2: 99
+99
+toSan: 3oneqcjhsbv9threefive
+l: 3oneqcjhsbv9threefive
+r: 31qcjhsbv9three5
+1: 39
+2: 35
+35
+toSan: 47rsggonennqmbbckcdd31three
+l: 47rsggonennqmbbckcdd31three
+r: 47rsgg1nnqmbbckcdd313
+1: 45
+2: 43
+43
+toSan: sevenfivesixone5eight
+l: sevenfivesixone5eight
+r: 7fivesixone58
+1: 73
+2: 78
+78
+toSan: 48hcmlcone8x6
+l: 48hcmlcone8x6
+r: 48hcmlc18x6
+1: 48
+2: 46
+46
+toSan: three9threesixjtxhlm3eightgtrskhqfjtgfjbcfdt
+l: three9threesixjtxhlm3eightgtrskhqfjtgfjbcfdt
+r: 39threesixjtxhlm38gtrskhqfjtgfjbcfdt
+1: 36
+2: 38
+38
+toSan: 5ninefrpqjdhkkcldvhqkljpqpb1
+l: 5ninefrpqjdhkkcldvhqkljpqpb1
+r: 59frpqjdhkkcldvhqkljpqpb1
+1: 58
+2: 51
+51
+toSan: 969nine
+l: 969nine
+r: 9699
+1: 91
+2: 99
+99
+toSan: ninenine8ctprmxkvnine3xkl
+l: ninenine8ctprmxkvnine3xkl
+r: 9nine8ctprmxkv93xkl
+1: 99
+2: 93
+93
+toSan: seven648lpmxdn92
+l: seven648lpmxdn92
+r: 7648lpmxdn92
+1: 73
+2: 72
+72
+toSan: rjhvlnz5two
+l: rjhvlnz5two
+r: rjhvlnz52
+1: 52
+2: 52
+52
+toSan: dlvqhfmp587
+l: dlvqhfmp587
+r: dlvqhfmp587
+1: 52
+2: 57
+57
+toSan: sevensix6
+l: sevensix6
+r: 766
+1: 77
+2: 76
+76
+toSan: eightsix34fourlgxrndbjjx9mztwo
+l: eightsix34fourlgxrndbjjx9mztwo
+r: 8six34fourlgxrndbjjx9mz2
+1: 86
+2: 82
+82
+toSan: czlpflntvpc1qnl2
+l: czlpflntvpc1qnl2
+r: czlpflntvpc1qnl2
+1: 12
+2: 12
+12
+toSan: 9seven8qsixbjoneeight
+l: 9seven8qsixbjoneeight
+r: 978qsixbjone8
+1: 92
+2: 98
+98
+toSan: snnjcseventwo6qst
+l: snnjcseventwo6qst
+r: snnjc726qst
+1: 78
+2: 76
+76
+toSan: ndxgj756zqgt
+l: ndxgj756zqgt
+r: ndxgj756zqgt
+1: 76
+2: 76
+76
+toSan: krczgjpbfp199three4six
+l: krczgjpbfp199three4six
+r: krczgjpbfp199346
+1: 16
+2: 16
+16
+toSan: cjeightwoone8
+l: cjeightwoone8
+r: cj8wo18
+1: 86
+2: 88
+88
+toSan: ffmddcrh7rrxhpnlkkdl
+l: ffmddcrh7rrxhpnlkkdl
+r: ffmddcrh7rrxhpnlkkdl
+1: 78
+2: 77
+77
+toSan: nine9hhppdvfczxkjninefivecdp
+l: nine9hhppdvfczxkjninefivecdp
+r: 99hhppdvfczxkjnine5cdp
+1: 97
+2: 95
+95
+toSan: 8eight19
+l: 8eight19
+r: 8819
+1: 85
+2: 89
+89
+toSan: 4fiveeightthree2twotwo
+l: 4fiveeightthree2twotwo
+r: 45eightthree2two2
+1: 49
+2: 42
+42
+toSan: nine2four4941seven
+l: nine2four4941seven
+r: 92four49417
+1: 92
+2: 97
+97
+toSan: fournine5twodqbkbjjmmqsn
+l: fournine5twodqbkbjjmmqsn
+r: 4nine52dqbkbjjmmqsn
+1: 47
+2: 42
+42
+toSan: nzqgngfxftwo6
+l: nzqgngfxftwo6
+r: nzqgngfxf26
+1: 22
+2: 26
+26
+toSan: 5bmlfbsql2sevenjrxkkdtwoone
+l: 5bmlfbsql2sevenjrxkkdtwoone
+r: 5bmlfbsql27jrxkkdtwo1
+1: 56
+2: 51
+51
+toSan: jfeightwoppxbpgzdljnmmpvrckv8
+l: jfeightwoppxbpgzdljnmmpvrckv8
+r: jf8woppxbpgzdljnmmpvrckv8
+1: 81
+2: 88
+88
+toSan: chj66fouronefourvcdd
+l: chj66fouronefourvcdd
+r: chj664one4vcdd
+1: 68
+2: 64
+64
+toSan: fourzvgbsgkmgslntrzxtxvjnmhk5v7
+l: fourzvgbsgkmgslntrzxtxvjnmhk5v7
+r: 4zvgbsgkmgslntrzxtxvjnmhk5v7
+1: 44
+2: 47
+47
+toSan: 1fnzftqmtj9gqkblpknq6blmlkxbzhdsdljvqfour
+l: 1fnzftqmtj9gqkblpknq6blmlkxbzhdsdljvqfour
+r: 1fnzftqmtj9gqkblpknq6blmlkxbzhdsdljvq4
+1: 17
+2: 14
+14
+toSan: 116rqpdqq
+l: 116rqpdqq
+r: 116rqpdqq
+1: 14
+2: 16
+16
+toSan: xslxqcmlchmqlzmkxbk79hnlhthreesnnmnht
+l: xslxqcmlchmqlzmkxbk79hnlhthreesnnmnht
+r: xslxqcmlchmqlzmkxbk79hnlh3snnmnht
+1: 76
+2: 73
+73
+toSan: sixfive8kjhrfdxrtfour
+l: sixfive8kjhrfdxrtfour
+r: 6five8kjhrfdxrt4
+1: 63
+2: 64
+64
+toSan: nlv71clmzbnine6
+l: nlv71clmzbnine6
+r: nlv71clmzb96
+1: 74
+2: 76
+76
+toSan: 42one8lz
+l: 42one8lz
+r: 4218lz
+1: 46
+2: 48
+48
+toSan: qspsdj2gv6vl8six5
+l: qspsdj2gv6vl8six5
+r: qspsdj2gv6vl865
+1: 28
+2: 25
+25
+toSan: 5gctkjzxlr2twoseventhree
+l: 5gctkjzxlr2twoseventhree
+r: 5gctkjzxlr22seven3
+1: 55
+2: 53
+53
+toSan: rmgmkvqeightpfmrxqmvkg8
+l: rmgmkvqeightpfmrxqmvkg8
+r: rmgmkvq8pfmrxqmvkg8
+1: 83
+2: 88
+88
+toSan: 3sixnjrjbbzl3
+l: 3sixnjrjbbzl3
+r: 36njrjbbzl3
+1: 38
+2: 33
+33
+toSan: 1nineseven4three7qhdsxvbmlk
+l: 1nineseven4three7qhdsxvbmlk
+r: 19seven437qhdsxvbmlk
+1: 13
+2: 17
+17
+toSan: fourjbznsbgsn2pgxrzlkkjtctm3eight5
+l: fourjbznsbgsn2pgxrzlkkjtctm3eight5
+r: 4jbznsbgsn2pgxrzlkkjtctm385
+1: 47
+2: 45
+45
+toSan: 36fourninecppsqfflbcbljnfgh2
+l: 36fourninecppsqfflbcbljnfgh2
+r: 3649cppsqfflbcbljnfgh2
+1: 35
+2: 32
+32
+toSan: eight211ninegnfvhfxqcmpmeight
+l: eight211ninegnfvhfxqcmpmeight
+r: 8211ninegnfvhfxqcmpm8
+1: 82
+2: 88
+88
+toSan: vbsg73
+l: vbsg73
+r: vbsg73
+1: 78
+2: 73
+73
+toSan: 3ninetwoonerbzcglkmdg
+l: 3ninetwoonerbzcglkmdg
+r: 39two1rbzcglkmdg
+1: 33
+2: 31
+31
+toSan: 76ngkrtfonecltwovvgvgznzbmxm
+l: 76ngkrtfonecltwovvgvgznzbmxm
+r: 76ngkrtf1cl2vvgvgznzbmxm
+1: 71
+2: 72
+72
+toSan: 977eighteightwocp
+l: 977eighteightwocp
+r: 9778eigh2cp
+1: 92
+2: 92
+92
+toSan: fxskxcdkdeight2225
+l: fxskxcdkdeight2225
+r: fxskxcdkd82225
+1: 82
+2: 85
+85
+toSan: seven98rpzjxscseven3vtbbhqjrjfk
+l: seven98rpzjxscseven3vtbbhqjrjfk
+r: 798rpzjxsc73vtbbhqjrjfk
+1: 75
+2: 73
+73
+toSan: sevenseven97jxh
+l: sevenseven97jxh
+r: 7797jxh
+1: 73
+2: 77
+77
+toSan: sevenfourfivexsspnqjnlxtbrfour24
+l: sevenfourfivexsspnqjnlxtbrfour24
+r: 7fourfivexsspnqjnlxtbr424
+1: 77
+2: 74
+74
+toSan: fivefive5two91six
+l: fivefive5two91six
+r: 5five5two916
+1: 54
+2: 56
+56
+toSan: gg2ptrsdxtfjtzztthree8
+l: gg2ptrsdxtfjtzztthree8
+r: gg2ptrsdxtfjtzzt38
+1: 26
+2: 28
+28
+toSan: eight2ncmps1qsix25
+l: eight2ncmps1qsix25
+r: 82ncmps1q625
+1: 88
+2: 85
+85
+toSan: eight486zfqfmgchtrrbcrjsevenrcqtxnqnrb
+l: eight486zfqfmgchtrrbcrjsevenrcqtxnqnrb
+r: 8486zfqfmgchtrrbcrj7rcqtxnqnrb
+1: 85
+2: 87
+87
+toSan: 7vgn31lvqqvkdqlpddmllbn9
+l: 7vgn31lvqqvkdqlpddmllbn9
+r: 7vgn31lvqqvkdqlpddmllbn9
+1: 77
+2: 79
+79
+toSan: 1hlgrlmctseveneight9xfsfseven
+l: 1hlgrlmctseveneight9xfsfseven
+r: 1hlgrlmct7eight9xfsf7
+1: 19
+2: 17
+17
+toSan: onefourdqzvlh7
+l: onefourdqzvlh7
+r: 14dqzvlh7
+1: 17
+2: 17
+17
+toSan: four543ninethree
+l: four543ninethree
+r: 4543nine3
+1: 47
+2: 43
+43
+toSan: 4seven1one
+l: 4seven1one
+r: 4711
+1: 43
+2: 41
+41
+toSan: 79twogmjcngj7rseven3
+l: 79twogmjcngj7rseven3
+r: 792gmjcngj7r73
+1: 71
+2: 73
+73
+toSan: xxtkcbkgqfldssix4five4nine
+l: xxtkcbkgqfldssix4five4nine
+r: xxtkcbkgqflds64five49
+1: 63
+2: 69
+69
+toSan: tqxnnspd7sevenvljzl2scsbkhqdq
+l: tqxnnspd7sevenvljzl2scsbkhqdq
+r: tqxnnspd77vljzl2scsbkhqdq
+1: 79
+2: 72
+72
+toSan: cbz3rczscjfxtzfivenbjqone
+l: cbz3rczscjfxtzfivenbjqone
+r: cbz3rczscjfxtz5nbjq1
+1: 32
+2: 31
+31
+toSan: threekkcjlmvkfrsgz6r
+l: threekkcjlmvkfrsgz6r
+r: 3kkcjlmvkfrsgz6r
+1: 31
+2: 36
+36
+toSan: 1sixvppcksdvrz7
+l: 1sixvppcksdvrz7
+r: 16vppcksdvrz7
+1: 16
+2: 17
+17
+toSan: dvngzs74eight9
+l: dvngzs74eight9
+r: dvngzs7489
+1: 77
+2: 79
+79
+toSan: qrncqtqxkfrndcrrpjcglfonesix75seven
+l: qrncqtqxkfrndcrrpjcglfonesix75seven
+r: qrncqtqxkfrndcrrpjcglf1six757
+1: 19
+2: 17
+17
+toSan: eight6cksxfdthreefive2eight
+l: eight6cksxfdthreefive2eight
+r: 86cksxfdthreefive28
+1: 87
+2: 88
+88
+toSan: four51sixfschln6
+l: four51sixfschln6
+r: 4516fschln6
+1: 48
+2: 46
+46
+toSan: hblmcggzgqsix2two
+l: hblmcggzgqsix2two
+r: hblmcggzgq622
+1: 66
+2: 62
+62
+toSan: 93two985
+l: 93two985
+r: 932985
+1: 92
+2: 95
+95
+toSan: 78six6
+l: 78six6
+r: 7866
+1: 75
+2: 76
+76
+toSan: 6sxmd289nine152
+l: 6sxmd289nine152
+r: 6sxmd2899152
+1: 66
+2: 62
+62
+toSan: gmpdcdcr4xzmhq3
+l: gmpdcdcr4xzmhq3
+r: gmpdcdcr4xzmhq3
+1: 42
+2: 43
+43
+toSan: 5threehpdmq
+l: 5threehpdmq
+r: 53hpdmq
+1: 53
+2: 53
+53
+toSan: eight54xcrlsv8three4
+l: eight54xcrlsv8three4
+r: 854xcrlsv834
+1: 83
+2: 84
+84
+toSan: 35twofourfivenine4tjthd
+l: 35twofourfivenine4tjthd
+r: 352fourfive94tjthd
+1: 34
+2: 34
+34
+toSan: 6kch9
+l: 6kch9
+r: 6kch9
+1: 64
+2: 69
+69
+toSan: 7fjlvptwo2ztrggpmsntwo
+l: 7fjlvptwo2ztrggpmsntwo
+r: 7fjlvp22ztrggpmsn2
+1: 79
+2: 72
+72
+toSan: 7twosix6kmdnvspnqgjxcdtgrspjj7
+l: 7twosix6kmdnvspnqgjxcdtgrspjj7
+r: 7266kmdnvspnqgjxcdtgrspjj7
+1: 72
+2: 77
+77
+toSan: tsix8fivethree
+l: tsix8fivethree
+r: t68five3
+1: 67
+2: 63
+63
+toSan: 2pggbgxnft7
+l: 2pggbgxnft7
+r: 2pggbgxnft7
+1: 23
+2: 27
+27
+toSan: sixthree69j
+l: sixthree69j
+r: 6369j
+1: 67
+2: 69
+69
+toSan: 24l
+l: 24l
+r: 24l
+1: 29
+2: 24
+24
+toSan: cpzltvslq9nfhcv
+l: cpzltvslq9nfhcv
+r: cpzltvslq9nfhcv
+1: 94
+2: 99
+99
+toSan: six46eightsixsixbblvjjkvntmm
+l: six46eightsixsixbblvjjkvntmm
+r: 646eightsix6bblvjjkvntmm
+1: 69
+2: 66
+66
+toSan: 7five3
+l: 7five3
+r: 753
+1: 76
+2: 73
+73
+toSan: six2three
+l: six2three
+r: 623
+1: 63
+2: 63
+63
+toSan: seven2xxxhhjnl53sixjtgbnvh6
+l: seven2xxxhhjnl53sixjtgbnvh6
+r: 72xxxhhjnl536jtgbnvh6
+1: 73
+2: 76
+76
+toSan: fiveeightj1mrfvzfour3p
+l: fiveeightj1mrfvzfour3p
+r: 5eightj1mrfvz43p
+1: 56
+2: 53
+53
+toSan: 6foureight588zpjdcxlrshtwonine
+l: 6foureight588zpjdcxlrshtwonine
+r: 64eight588zpjdcxlrshtwo9
+1: 63
+2: 69
+69
+toSan: xvtwonesix7prcjfsxjksknxqqsmsix
+l: xvtwonesix7prcjfsxjksknxqqsmsix
+r: xv2nesix7prcjfsxjksknxqqsm6
+1: 29
+2: 26
+26
+toSan: eight3fivexmrs1eightnc
+l: eight3fivexmrs1eightnc
+r: 83fivexmrs18nc
+1: 86
+2: 88
+88
+toSan: vczdhchhsmlx7zdlcgfzrcgkcnqdvdtphxqqjxnsbd
+l: vczdhchhsmlx7zdlcgfzrcgkcnqdvdtphxqqjxnsbd
+r: vczdhchhsmlx7zdlcgfzrcgkcnqdvdtphxqqjxnsbd
+1: 78
+2: 77
+77
+toSan: six2fxqqdtrkgqpgjrvhxtsbqzz
+l: six2fxqqdtrkgqpgjrvhxtsbqzz
+r: 62fxqqdtrkgqpgjrvhxtsbqzz
+1: 67
+2: 62
+62
+toSan: twotwofour4six
+l: twotwofour4six
+r: 2twofour46
+1: 22
+2: 26
+26
+toSan: 9nzcvxthree
+l: 9nzcvxthree
+r: 9nzcvx3
+1: 96
+2: 93
+93
+toSan: kggfkpvhrronep238nine
+l: kggfkpvhrronep238nine
+r: kggfkpvhrr1p2389
+1: 13
+2: 19
+19
+toSan: 41seven4sevenfourvrmxkhpcmskbctwo
+l: 41seven4sevenfourvrmxkhpcmskbctwo
+r: 4174sevenfourvrmxkhpcmskbc2
+1: 49
+2: 42
+42
+toSan: nbttnvh8nlhldjstkvdxxlvqeightoneights
+l: nbttnvh8nlhldjstkvdxxlvqeightoneights
+r: nbttnvh8nlhldjstkvdxxlvq8on8s
+1: 82
+2: 88
+88
+toSan: tjqdkfourthree466
+l: tjqdkfourthree466
+r: tjqdk43466
+1: 48
+2: 46
+46
+toSan: twothbcvstwotwo2xpnqrldsmdtscnrp
+l: twothbcvstwotwo2xpnqrldsmdtscnrp
+r: 2thbcvstwo22xpnqrldsmdtscnrp
+1: 26
+2: 22
+22
+toSan: sevennine3
+l: sevennine3
+r: 793
+1: 72
+2: 73
+73
+toSan: twodhbtlnzrt418dlszqkbc78
+l: twodhbtlnzrt418dlszqkbc78
+r: 2dhbtlnzrt418dlszqkbc78
+1: 23
+2: 28
+28
+toSan: 3four8threeonetwoneh
+l: 3four8threeonetwoneh
+r: 348threeonetw1h
+1: 38
+2: 31
+31
+toSan: drtcjpmrlnine3vgf8kssrsssgpnseven
+l: drtcjpmrlnine3vgf8kssrsssgpnseven
+r: drtcjpmrl93vgf8kssrsssgpn7
+1: 91
+2: 97
+97
+toSan: eight78jqjjkgtbcckdndhdvz57q
+l: eight78jqjjkgtbcckdndhdvz57q
+r: 878jqjjkgtbcckdndhdvz57q
+1: 87
+2: 87
+87
+toSan: five59onesixsevenflls
+l: five59onesixsevenflls
+r: 559onesix7flls
+1: 57
+2: 57
+57
+toSan: 63bbznssjjsvt4
+l: 63bbznssjjsvt4
+r: 63bbznssjjsvt4
+1: 67
+2: 64
+64
+toSan: fqkgmcrxf6gkcninesevennfzhccqtfour9
+l: fqkgmcrxf6gkcninesevennfzhccqtfour9
+r: fqkgmcrxf6gkc9sevennfzhccqt49
+1: 64
+2: 69
+69
+toSan: 5nine2three
+l: 5nine2three
+r: 5923
+1: 59
+2: 53
+53
+toSan: gfkhpkfgb9four49rqcjrjkglpzxr
+l: gfkhpkfgb9four49rqcjrjkglpzxr
+r: gfkhpkfgb9449rqcjrjkglpzxr
+1: 93
+2: 99
+99
+toSan: ds28eight33xl
+l: ds28eight33xl
+r: ds28833xl
+1: 29
+2: 23
+23
+toSan: qdgnn9ninecpcv
+l: qdgnn9ninecpcv
+r: qdgnn99cpcv
+1: 93
+2: 99
+99
+toSan: 2sevenrlfkzmktzgsevenzzgxfrmp
+l: 2sevenrlfkzmktzgsevenzzgxfrmp
+r: 27rlfkzmktzg7zzgxfrmp
+1: 29
+2: 27
+27
+toSan: twovpthxmxqgr94
+l: twovpthxmxqgr94
+r: 2vpthxmxqgr94
+1: 27
+2: 24
+24
+toSan: sk3gbmrknrmm
+l: sk3gbmrknrmm
+r: sk3gbmrknrmm
+1: 34
+2: 33
+33
+toSan: 7sevenrpxjvzeightsix
+l: 7sevenrpxjvzeightsix
+r: 77rpxjvzeight6
+1: 73
+2: 76
+76
+toSan: 9zxzqglvxqm6jphmvfsqvjjqsl
+l: 9zxzqglvxqm6jphmvfsqvjjqsl
+r: 9zxzqglvxqm6jphmvfsqvjjqsl
+1: 96
+2: 96
+96
+toSan: 9kqmnkthcdhtwovbrqzftst3
+l: 9kqmnkthcdhtwovbrqzftst3
+r: 9kqmnkthcdh2vbrqzftst3
+1: 96
+2: 93
+93
+toSan: eight669zvrdpv
+l: eight669zvrdpv
+r: 8669zvrdpv
+1: 83
+2: 89
+89
+toSan: shgjkgthreeznz69pjltseven
+l: shgjkgthreeznz69pjltseven
+r: shgjkg3znz69pjlt7
+1: 39
+2: 37
+37
+toSan: ninebc5eight
+l: ninebc5eight
+r: 9bc58
+1: 97
+2: 98
+98
+toSan: 5l
+l: 5l
+r: 5l
+1: 58
+2: 55
+55
+toSan: onesix5five2clxllfour
+l: onesix5five2clxllfour
+r: 1six5five2clxll4
+1: 15
+2: 14
+14
+toSan: 71three2fivecplsnlgsmthree
+l: 71three2fivecplsnlgsmthree
+r: 7132fivecplsnlgsm3
+1: 74
+2: 73
+73
+toSan: twofourone6fm7four26eightwox
+l: twofourone6fm7four26eightwox
+r: 2fourone6fm7four26eigh2x
+1: 23
+2: 22
+22
+toSan: 7three9ftpvvbzpjzsixssxbqcfsix4
+l: 7three9ftpvvbzpjzsixssxbqcfsix4
+r: 739ftpvvbzpjzsixssxbqcf64
+1: 72
+2: 74
+74
+toSan: 92eightlsgrmpqtpptxrdfxthreemvlxfpsevenoneightdd
+l: 92eightlsgrmpqtpptxrdfxthreemvlxfpsevenoneightdd
+r: 928lsgrmpqtpptxrdfxthreemvlxfpsevenon8dd
+1: 94
+2: 98
+98
+toSan: eight7three
+l: eight7three
+r: 873
+1: 88
+2: 83
+83
+toSan: drxxcghbsevenninenineljtczntp6
+l: drxxcghbsevenninenineljtczntp6
+r: drxxcghb7nine9ljtczntp6
+1: 73
+2: 76
+76
+toSan: nine55cpqfkdrthree3
+l: nine55cpqfkdrthree3
+r: 955cpqfkdr33
+1: 96
+2: 93
+93
+toSan: 7fivefp3eight
+l: 7fivefp3eight
+r: 75fp38
+1: 73
+2: 78
+78
+toSan: 97nine1ninexprdpvqzps
+l: 97nine1ninexprdpvqzps
+r: 97919xprdpvqzps
+1: 98
+2: 99
+99
+toSan: four3eightpgbdhnmqvhjjhg6frqkpqzbtwoner
+l: four3eightpgbdhnmqvhjjhg6frqkpqzbtwoner
+r: 43eightpgbdhnmqvhjjhg6frqkpqzbtw1r
+1: 49
+2: 41
+41
+toSan: 3threefivesevenrvr3sixthree
+l: 3threefivesevenrvr3sixthree
+r: 33fivesevenrvr3six3
+1: 31
+2: 33
+33
+toSan: sixs6zl184
+l: sixs6zl184
+r: 6s6zl184
+1: 63
+2: 64
+64
+toSan: fourlfkxcvqkllbtz45threefivesix
+l: fourlfkxcvqkllbtz45threefivesix
+r: 4lfkxcvqkllbtz45threefive6
+1: 44
+2: 46
+46
+toSan: 2twodvklqcqdjjdnpx84xgthree4
+l: 2twodvklqcqdjjdnpx84xgthree4
+r: 22dvklqcqdjjdnpx84xg34
+1: 26
+2: 24
+24
+toSan: eightfour8dnqmlqmxd9cmt8
+l: eightfour8dnqmlqmxd9cmt8
+r: 848dnqmlqmxd9cmt8
+1: 84
+2: 88
+88
+toSan: t4sixkkfhgmn83eight
+l: t4sixkkfhgmn83eight
+r: t46kkfhgmn838
+1: 48
+2: 48
+48
+toSan: eightoneninehqddxnine75vppqhlcm
+l: eightoneninehqddxnine75vppqhlcm
+r: 8oneninehqddx975vppqhlcm
+1: 88
+2: 85
+85
+toSan: 1threesdvsszeight5dcsgrsv
+l: 1threesdvsszeight5dcsgrsv
+r: 13sdvssz85dcsgrsv
+1: 15
+2: 15
+15
+toSan: seven776smjhhb
+l: seven776smjhhb
+r: 7776smjhhb
+1: 75
+2: 76
+76
+toSan: onevmr62dqzt7
+l: onevmr62dqzt7
+r: 1vmr62dqzt7
+1: 16
+2: 17
+17
+toSan: pqxtspl19threesevenkjvxjdhxkseven
+l: pqxtspl19threesevenkjvxjdhxkseven
+r: pqxtspl193sevenkjvxjdhxk7
+1: 17
+2: 17
+17
+toSan: cgkvmx5lffclxgtsnseven
+l: cgkvmx5lffclxgtsnseven
+r: cgkvmx5lffclxgtsn7
+1: 57
+2: 57
+57
+toSan: fqjctfrrlmmnpeightone19nineqgsnsqbjk
+l: fqjctfrrlmmnpeightone19nineqgsnsqbjk
+r: fqjctfrrlmmnp8one199qgsnsqbjk
+1: 87
+2: 89
+89
+toSan: 8twoone
+l: 8twoone
+r: 821
+1: 89
+2: 81
+81
+toSan: c6eightonep3gxjnsjtwo3
+l: c6eightonep3gxjnsjtwo3
+r: c68onep3gxjnsj23
+1: 61
+2: 63
+63
+toSan: sixthree36sevenseven
+l: sixthree36sevenseven
+r: 6three36seven7
+1: 63
+2: 67
+67
+toSan: 5vgfsdkzbxmvxncxjpsxffcbnr62kmgmhcmkq
+l: 5vgfsdkzbxmvxncxjpsxffcbnr62kmgmhcmkq
+r: 5vgfsdkzbxmvxncxjpsxffcbnr62kmgmhcmkq
+1: 57
+2: 52
+52
+toSan: nineeightfour9kvdmxg5nnhrf
+l: nineeightfour9kvdmxg5nnhrf
+r: 9eight49kvdmxg5nnhrf
+1: 92
+2: 95
+95
+toSan: 5blqszh97fhgpbdn44
+l: 5blqszh97fhgpbdn44
+r: 5blqszh97fhgpbdn44
+1: 55
+2: 54
+54
+toSan: nhzbqprgptnineflxgvfkvlp453two
+l: nhzbqprgptnineflxgvfkvlp453two
+r: nhzbqprgpt9flxgvfkvlp4532
+1: 94
+2: 92
+92
+toSan: kpcqvjcjcj6dfpsljlrxdlzbf8grsnsdmklp
+l: kpcqvjcjcj6dfpsljlrxdlzbf8grsnsdmklp
+r: kpcqvjcjcj6dfpsljlrxdlzbf8grsnsdmklp
+1: 62
+2: 68
+68
+toSan: 1zkjbnln
+l: 1zkjbnln
+r: 1zkjbnln
+1: 18
+2: 11
+11
+toSan: four2xvxrrvs
+l: four2xvxrrvs
+r: 42xvxrrvs
+1: 41
+2: 42
+42
+toSan: nine5nfmbxnrgfnine8onekqcnine
+l: nine5nfmbxnrgfnine8onekqcnine
+r: 95nfmbxnrgfnine8onekqc9
+1: 92
+2: 99
+99
+toSan: oneonedd8
+l: oneonedd8
+r: 11dd8
+1: 19
+2: 18
+18
+toSan: rr44
+l: rr44
+r: rr44
+1: 48
+2: 44
+44
+toSan: 8bckneightnqmkvqhkkmxfour
+l: 8bckneightnqmkvqhkkmxfour
+r: 8bckn8nqmkvqhkkmx4
+1: 84
+2: 84
+84
+toSan: 2pznjcxlj4onenine433
+l: 2pznjcxlj4onenine433
+r: 2pznjcxlj419433
+1: 24
+2: 23
+23
+toSan: nhmhkcqbsrrthreeeighttwo3f5
+l: nhmhkcqbsrrthreeeighttwo3f5
+r: nhmhkcqbsrr3eight23f5
+1: 33
+2: 35
+35
+toSan: eight64sixninefivethreecfbbdk
+l: eight64sixninefivethreecfbbdk
+r: 864sixninefive3cfbbdk
+1: 85
+2: 83
+83
+toSan: csmoneight1hrsevenfivesevenone756
+l: csmoneight1hrsevenfivesevenone756
+r: csm1ight1hrsevenfiveseven1756
+1: 13
+2: 16
+16
+toSan: 9qdrxl
+l: 9qdrxl
+r: 9qdrxl
+1: 96
+2: 99
+99
+toSan: 26two3jq
+l: 26two3jq
+r: 2623jq
+1: 29
+2: 23
+23
+toSan: pnrskrrvtonesevenrmkcxcm2five8five
+l: pnrskrrvtonesevenrmkcxcm2five8five
+r: pnrskrrvt1sevenrmkcxcm2five85
+1: 13
+2: 15
+15
+toSan: sfvfr8three69three7fs
+l: sfvfr8three69three7fs
+r: sfvfr836937fs
+1: 85
+2: 87
+87
+toSan: seven52bkslnnfrbqvmblknq3f4
+l: seven52bkslnnfrbqvmblknq3f4
+r: 752bkslnnfrbqvmblknq3f4
+1: 77
+2: 74
+74
+toSan: zqmtdtp31threesevennine3
+l: zqmtdtp31threesevennine3
+r: zqmtdtp313seven93
+1: 34
+2: 33
+33
+toSan: 9tbvvjstzmdpqnpbmrb32cbdjgtsjndjrps3ckpmspm
+l: 9tbvvjstzmdpqnpbmrb32cbdjgtsjndjrps3ckpmspm
+r: 9tbvvjstzmdpqnpbmrb32cbdjgtsjndjrps3ckpmspm
+1: 93
+2: 93
+93
+toSan: 5four4rvmtkppghb9
+l: 5four4rvmtkppghb9
+r: 544rvmtkppghb9
+1: 53
+2: 59
+59
+toSan: 24ftjxbdq3nine
+l: 24ftjxbdq3nine
+r: 24ftjxbdq39
+1: 29
+2: 29
+29
+toSan: ltj2oneeightonesix
+l: ltj2oneeightonesix
+r: ltj21eightone6
+1: 29
+2: 26
+26
+toSan: 76three2sevennine
+l: 76three2sevennine
+r: 7632seven9
+1: 76
+2: 79
+79
+toSan: hfnzxcjfxgseven5cpph3
+l: hfnzxcjfxgseven5cpph3
+r: hfnzxcjfxg75cpph3
+1: 79
+2: 73
+73
+toSan: 2one966dpjlgfqbmceightthreenine
+l: 2one966dpjlgfqbmceightthreenine
+r: 21966dpjlgfqbmceightthree9
+1: 23
+2: 29
+29
+toSan: 5one9smzz76eight
+l: 5one9smzz76eight
+r: 519smzz768
+1: 59
+2: 58
+58
+toSan: 348tworhzvqjdmqtwo
+l: 348tworhzvqjdmqtwo
+r: 3482rhzvqjdmq2
+1: 38
+2: 32
+32
+toSan: cjsvvksgzkktwo7hsfkrhkcsbrqcnrz26
+l: cjsvvksgzkktwo7hsfkrhkcsbrqcnrz26
+r: cjsvvksgzkk27hsfkrhkcsbrqcnrz26
+1: 22
+2: 26
+26
+toSan: threethreez8
+l: threethreez8
+r: 33z8
+1: 36
+2: 38
+38
+toSan: m3335cdgbxqn5twodmcqk
+l: m3335cdgbxqn5twodmcqk
+r: m3335cdgbxqn52dmcqk
+1: 38
+2: 32
+32
+toSan: 27eight4
+l: 27eight4
+r: 2784
+1: 22
+2: 24
+24
+toSan: sfmspqbzr9eight
+l: sfmspqbzr9eight
+r: sfmspqbzr98
+1: 94
+2: 98
+98
+toSan: rscxzq2fqlhbbhvkdbzqzqhzfourninepclrkkdrtwosix
+l: rscxzq2fqlhbbhvkdbzqzqhzfourninepclrkkdrtwosix
+r: rscxzq2fqlhbbhvkdbzqzqhz4ninepclrkkdrtwo6
+1: 28
+2: 26
+26
+toSan: pxbld2twonef
+l: pxbld2twonef
+r: pxbld22nef
+1: 26
+2: 22
+22
+toSan: plpbbkvxqpvdxqcstp5threevljjqsqxsevenseven
+l: plpbbkvxqpvdxqcstp5threevljjqsqxsevenseven
+r: plpbbkvxqpvdxqcstp53vljjqsqxseven7
+1: 52
+2: 57
+57
+toSan: 2sevensix9
+l: 2sevensix9
+r: 2769
+1: 27
+2: 29
+29
+toSan: 5413sxmtrdjtcmdqpbpcprsix
+l: 5413sxmtrdjtcmdqpbpcprsix
+r: 5413sxmtrdjtcmdqpbpcpr6
+1: 59
+2: 56
+56
+toSan: tpdqxscxjldqvzncbvrpr9cvkqdffvfh8four
+l: tpdqxscxjldqvzncbvrpr9cvkqdffvfh8four
+r: tpdqxscxjldqvzncbvrpr9cvkqdffvfh84
+1: 96
+2: 94
+94
+toSan: six14
+l: six14
+r: 614
+1: 64
+2: 64
+64
+toSan: nsmqttrbhrznvonecmlxtdclnbk3
+l: nsmqttrbhrznvonecmlxtdclnbk3
+r: nsmqttrbhrznv1cmlxtdclnbk3
+1: 14
+2: 13
+13
+toSan: ninecgbqh6twoctsixthreefive
+l: ninecgbqh6twoctsixthreefive
+r: 9cgbqh6twoctsixthree5
+1: 93
+2: 95
+95
+toSan: hqsgonesix3oneightklm
+l: hqsgonesix3oneightklm
+r: hqsg1six3on8klm
+1: 15
+2: 18
+18
+toSan: cxxbjptkvkcttddmtwo37one5
+l: cxxbjptkvkcttddmtwo37one5
+r: cxxbjptkvkcttddm23715
+1: 28
+2: 25
+25
+toSan: v13two
+l: v13two
+r: v132
+1: 15
+2: 12
+12
+toSan: txxm84kmrpdkxhtbntkhj4four5
+l: txxm84kmrpdkxhtbntkhj4four5
+r: txxm84kmrpdkxhtbntkhj445
+1: 82
+2: 85
+85
+toSan: jsrzgnine8nrmzpgf5sqdz
+l: jsrzgnine8nrmzpgf5sqdz
+r: jsrzg98nrmzpgf5sqdz
+1: 95
+2: 95
+95
+toSan: 4six9dkxttsthreedgvjkqpk
+l: 4six9dkxttsthreedgvjkqpk
+r: 469dkxtts3dgvjkqpk
+1: 45
+2: 43
+43
+toSan: msnrq7
+l: msnrq7
+r: msnrq7
+1: 73
+2: 77
+77
+toSan: t2five4vtwo7sevenrjdrzvb
+l: t2five4vtwo7sevenrjdrzvb
+r: t254vtwo77rjdrzvb
+1: 27
+2: 27
+27
+toSan: 2rxbdzlszjseven7
+l: 2rxbdzlszjseven7
+r: 2rxbdzlszj77
+1: 27
+2: 27
+27
+toSan: gmmninesix3119ninemdnprsmd
+l: gmmninesix3119ninemdnprsmd
+r: gmm9six31199mdnprsmd
+1: 97
+2: 99
+99
+toSan: ninesevenpbfx6fourfivefdvhrsctztrheight
+l: ninesevenpbfx6fourfivefdvhrsctztrheight
+r: 9sevenpbfx6fourfivefdvhrsctztrh8
+1: 99
+2: 98
+98
+toSan: qk3two317hnpkqxbmkb3
+l: qk3two317hnpkqxbmkb3
+r: qk32317hnpkqxbmkb3
+1: 38
+2: 33
+33
+toSan: oneone6sixdzdmfonefiveone
+l: oneone6sixdzdmfonefiveone
+r: 1one6sixdzdmfonefive1
+1: 13
+2: 11
+11
+toSan: 427sixfive
+l: 427sixfive
+r: 42765
+1: 41
+2: 45
+45
+toSan: 17njgbgljkpxvhph
+l: 17njgbgljkpxvhph
+r: 17njgbgljkpxvhph
+1: 15
+2: 17
+17
+toSan: 4hnfvpbvzxl6three
+l: 4hnfvpbvzxl6three
+r: 4hnfvpbvzxl63
+1: 47
+2: 43
+43
+toSan: 5sixnllvrvpjpv
+l: 5sixnllvrvpjpv
+r: 56nllvrvpjpv
+1: 53
+2: 56
+56
+toSan: 3sevenfzjltglsjkdknfnmpsvfive6xdsm2
+l: 3sevenfzjltglsjkdknfnmpsvfive6xdsm2
+r: 37fzjltglsjkdknfnmpsv56xdsm2
+1: 36
+2: 32
+32
+toSan: 1pxp8onesix
+l: 1pxp8onesix
+r: 1pxp816
+1: 12
+2: 16
+16
+toSan: xclcfthreeln9ndqhvdxknkjzv4
+l: xclcfthreeln9ndqhvdxknkjzv4
+r: xclcf3ln9ndqhvdxknkjzv4
+1: 36
+2: 34
+34
+toSan: 6fourtwo2seven1fcd
+l: 6fourtwo2seven1fcd
+r: 64two271fcd
+1: 64
+2: 61
+61
+toSan: 1eightseven4
+l: 1eightseven4
+r: 1874
+1: 11
+2: 14
+14
+toSan: four21eightlfjzb
+l: four21eightlfjzb
+r: 4218lfjzb
+1: 44
+2: 48
+48
+toSan: nine9ninenine81
+l: nine9ninenine81
+r: 99nine981
+1: 98
+2: 91
+91
+toSan: eight8zpfsshlqbdlfourmch5four
+l: eight8zpfsshlqbdlfourmch5four
+r: 88zpfsshlqbdlfourmch54
+1: 81
+2: 84
+84
+toSan: 6sixjdmjjgmsk
+l: 6sixjdmjjgmsk
+r: 66jdmjjgmsk
+1: 64
+2: 66
+66
+toSan: ninesix8threetwoxtqdsffxlk6
+l: ninesix8threetwoxtqdsffxlk6
+r: 9six8three2xtqdsffxlk6
+1: 96
+2: 96
+96
+toSan: dgsddfcnnc3sevenseven532one
+l: dgsddfcnnc3sevenseven532one
+r: dgsddfcnnc37seven5321
+1: 36
+2: 31
+31
+toSan: lsevennineninefive851dtqzv
+l: lsevennineninefive851dtqzv
+r: l7ninenine5851dtqzv
+1: 71
+2: 71
+71
+toSan: nmrxfsmfcscftvzzbggglsfour6
+l: nmrxfsmfcscftvzzbggglsfour6
+r: nmrxfsmfcscftvzzbgggls46
+1: 41
+2: 46
+46
+toSan: threesmxqlgmpvtwokvrx361eight
+l: threesmxqlgmpvtwokvrx361eight
+r: 3smxqlgmpvtwokvrx3618
+1: 36
+2: 38
+38
+toSan: brbkgqcblcxghjp34bpnrctz
+l: brbkgqcblcxghjp34bpnrctz
+r: brbkgqcblcxghjp34bpnrctz
+1: 38
+2: 34
+34
+toSan: sixbzxfbfsjth14pqpvjqfmr
+l: sixbzxfbfsjth14pqpvjqfmr
+r: 6bzxfbfsjth14pqpvjqfmr
+1: 64
+2: 64
+64
+toSan: oneseven99
+l: oneseven99
+r: 1799
+1: 14
+2: 19
+19
+toSan: 7four6562zjjxxjlvfdqbssmcx
+l: 7four6562zjjxxjlvfdqbssmcx
+r: 746562zjjxxjlvfdqbssmcx
+1: 79
+2: 72
+72
+toSan: 8fjssqgzthree4five3
+l: 8fjssqgzthree4five3
+r: 8fjssqgz3453
+1: 82
+2: 83
+83
+toSan: fourckmtsssqgdgcvmqhcqlcqqdhv5eight
+l: fourckmtsssqgdgcvmqhcqlcqqdhv5eight
+r: 4ckmtsssqgdgcvmqhcqlcqqdhv58
+1: 43
+2: 48
+48
+toSan: bphtzndpdrfivefour8nine5
+l: bphtzndpdrfivefour8nine5
+r: bphtzndpdr5four895
+1: 58
+2: 55
+55
+toSan: ninesix57jvjtwo36vzljdfnndv
+l: ninesix57jvjtwo36vzljdfnndv
+r: 9six57jvj236vzljdfnndv
+1: 95
+2: 96
+96
+toSan: eightfourfivesixone2vg
+l: eightfourfivesixone2vg
+r: 8fourfivesix12vg
+1: 86
+2: 82
+82
+toSan: 5sevenkdgcmjthdxpxprcdnzpffsixcjmh2
+l: 5sevenkdgcmjthdxpxprcdnzpffsixcjmh2
+r: 57kdgcmjthdxpxprcdnzpff6cjmh2
+1: 52
+2: 52
+52
+toSan: 9cvldprttjk1
+l: 9cvldprttjk1
+r: 9cvldprttjk1
+1: 92
+2: 91
+91
+toSan: seven6fivesfjjshfqmsjvfpc
+l: seven6fivesfjjshfqmsjvfpc
+r: 765sfjjshfqmsjvfpc
+1: 71
+2: 75
+75
+toSan: eightsixstmhlldl21fourvgsmdlcd1
+l: eightsixstmhlldl21fourvgsmdlcd1
+r: 8sixstmhlldl214vgsmdlcd1
+1: 85
+2: 81
+81
+toSan: 5nv1two
+l: 5nv1two
+r: 5nv12
+1: 51
+2: 52
+52
+toSan: tsqxlfnd6rtcvcv5
+l: tsqxlfnd6rtcvcv5
+r: tsqxlfnd6rtcvcv5
+1: 62
+2: 65
+65
+toSan: eight3zdljlvkbp7hfive5xzgzspsnfour
+l: eight3zdljlvkbp7hfive5xzgzspsnfour
+r: 83zdljlvkbp7hfive5xzgzspsn4
+1: 85
+2: 84
+84
+toSan: 945sevennrtnn57
+l: 945sevennrtnn57
+r: 9457nrtnn57
+1: 94
+2: 97
+97
+toSan: 562
+l: 562
+r: 562
+1: 57
+2: 52
+52
+toSan: 3vtnlsfoursjbgbqmlx6
+l: 3vtnlsfoursjbgbqmlx6
+r: 3vtnls4sjbgbqmlx6
+1: 32
+2: 36
+36
+toSan: 8lprsrtvrh9two3
+l: 8lprsrtvrh9two3
+r: 8lprsrtvrh923
+1: 86
+2: 83
+83
+toSan: pssfncbhqpfour1dgcjqpccfzfntphmtjthree1sixfour
+l: pssfncbhqpfour1dgcjqpccfzfntphmtjthree1sixfour
+r: pssfncbhqp41dgcjqpccfzfntphmtjthree1six4
+1: 43
+2: 44
+44
+toSan: rchfmfp18998rsbx
+l: rchfmfp18998rsbx
+r: rchfmfp18998rsbx
+1: 14
+2: 18
+18
+toSan: nineonedmlffz5
+l: nineonedmlffz5
+r: 91dmlffz5
+1: 98
+2: 95
+95
+toSan: seven2sevenonetwo
+l: seven2sevenonetwo
+r: 72sevenone2
+1: 75
+2: 72
+72
+toSan: nine3gxttrkkzpj933mjzhphl
+l: nine3gxttrkkzpj933mjzhphl
+r: 93gxttrkkzpj933mjzhphl
+1: 92
+2: 93
+93
+toSan: cdpqqhrcrrnspsr378two
+l: cdpqqhrcrrnspsr378two
+r: cdpqqhrcrrnspsr3782
+1: 33
+2: 32
+32
+toSan: fourrprdlkvqj8tntfttwofivesevenqmcsgpljvnl
+l: fourrprdlkvqj8tntfttwofivesevenqmcsgpljvnl
+r: 4rprdlkvqj8tntfttwofive7qmcsgpljvnl
+1: 42
+2: 47
+47
+toSan: 978sixskr2gkrcgn
+l: 978sixskr2gkrcgn
+r: 9786skr2gkrcgn
+1: 97
+2: 92
+92
+toSan: jcvldmcdqbjdcxhjcgngsevenfive2cfcmbb4
+l: jcvldmcdqbjdcxhjcgngsevenfive2cfcmbb4
+r: jcvldmcdqbjdcxhjcgng752cfcmbb4
+1: 72
+2: 74
+74
+toSan: szlsvrzzkseventwoone6ninesevensj
+l: szlsvrzzkseventwoone6ninesevensj
+r: szlsvrzzk7twoone6nine7sj
+1: 74
+2: 77
+77
+toSan: gzboneightmsblxgzmsq5seven
+l: gzboneightmsblxgzmsq5seven
+r: gzb1ightmsblxgzmsq57
+1: 17
+2: 17
+17
+toSan: seven5eight5
+l: seven5eight5
+r: 7585
+1: 77
+2: 75
+75
+toSan: tsblj5onebkx882
+l: tsblj5onebkx882
+r: tsblj51bkx882
+1: 55
+2: 52
+52
+toSan: 7kdgdfvx3sevenczgf
+l: 7kdgdfvx3sevenczgf
+r: 7kdgdfvx37czgf
+1: 72
+2: 77
+77
+toSan: 94g14onenine
+l: 94g14onenine
+r: 94g1419
+1: 97
+2: 99
+99
+toSan: 7fournrkdxz4threethree
+l: 7fournrkdxz4threethree
+r: 74nrkdxz4three3
+1: 79
+2: 73
+73
+toSan: 8eightqtworlcxtv4
+l: 8eightqtworlcxtv4
+r: 88q2rlcxtv4
+1: 83
+2: 84
+84
+toSan: rbkbdsqbfour39eighteightwoxn
+l: rbkbdsqbfour39eighteightwoxn
+r: rbkbdsqb439eighteigh2xn
+1: 44
+2: 42
+42
+toSan: cxgmxtoneninennqtmzml6dq
+l: cxgmxtoneninennqtmzml6dq
+r: cxgmxt19nnqtmzml6dq
+1: 12
+2: 16
+16
+toSan: 8fivefour9
+l: 8fivefour9
+r: 8549
+1: 86
+2: 89
+89
+toSan: 8bhspzfsjr9
+l: 8bhspzfsjr9
+r: 8bhspzfsjr9
+1: 89
+2: 89
+89
+toSan: fivekzgvvfour8sevensix4vlphpblsp
+l: fivekzgvvfour8sevensix4vlphpblsp
+r: 5kzgvvfour8seven64vlphpblsp
+1: 59
+2: 54
+54
+toSan: six63kbbxrfivefive5
+l: six63kbbxrfivefive5
+r: 663kbbxrfive55
+1: 64
+2: 65
+65
+toSan: eight5gmkrhrkjjxhb
+l: eight5gmkrhrkjjxhb
+r: 85gmkrhrkjjxhb
+1: 85
+2: 85
+85
+toSan: xtcfivepntwoeight9seven
+l: xtcfivepntwoeight9seven
+r: xtc5pntwoeight97
+1: 55
+2: 57
+57
+toSan: 6nine8fivenine2mf
+l: 6nine8fivenine2mf
+r: 698five92mf
+1: 67
+2: 62
+62
+toSan: 5fourbthreenineslxfgtqrxcv5four
+l: 5fourbthreenineslxfgtqrxcv5four
+r: 54bthreenineslxfgtqrxcv54
+1: 52
+2: 54
+54
+toSan: 4vhkxmlsvfg
+l: 4vhkxmlsvfg
+r: 4vhkxmlsvfg
+1: 44
+2: 44
+44
+toSan: scphnsbz9h6qnlhcqmgl
+l: scphnsbz9h6qnlhcqmgl
+r: scphnsbz9h6qnlhcqmgl
+1: 94
+2: 96
+96
+toSan: tbbcqfxrllszbseventwofivethreeninef1
+l: tbbcqfxrllszbseventwofivethreeninef1
+r: tbbcqfxrllszb7twofivethree9f1
+1: 76
+2: 71
+71
+toSan: zkvtlscldhngtk59
+l: zkvtlscldhngtk59
+r: zkvtlscldhngtk59
+1: 51
+2: 59
+59
+toSan: one6fourrmftxfsvmtwo874
+l: one6fourrmftxfsvmtwo874
+r: 16fourrmftxfsvm2874
+1: 19
+2: 14
+14
+toSan: 37threeonefive4
+l: 37threeonefive4
+r: 373one54
+1: 34
+2: 34
+34
+toSan: lrnnspbrgd6jzxtbninesevenngnpsljcr
+l: lrnnspbrgd6jzxtbninesevenngnpsljcr
+r: lrnnspbrgd6jzxtb97ngnpsljcr
+1: 64
+2: 67
+67
+toSan: xhldmfc4five76five
+l: xhldmfc4five76five
+r: xhldmfc45765
+1: 47
+2: 45
+45
+toSan: qrzfivexklqcjdnine46
+l: qrzfivexklqcjdnine46
+r: qrz5xklqcjd946
+1: 55
+2: 56
+56
+toSan: jkgb6ninesix41threeseven
+l: jkgb6ninesix41threeseven
+r: jkgb69six41three7
+1: 66
+2: 67
+67
+toSan: 134628twozlm
+l: 134628twozlm
+r: 1346282zlm
+1: 17
+2: 12
+12
+toSan: 8ffrzgtbbfgfive2ninethreem
+l: 8ffrzgtbbfgfive2ninethreem
+r: 8ffrzgtbbfg52nine3m
+1: 82
+2: 83
+83
+toSan: 2132
+l: 2132
+r: 2132
+1: 23
+2: 22
+22
+toSan: 7xf
+l: 7xf
+r: 7xf
+1: 72
+2: 77
+77
+toSan: mfhmshvfivenfzjhslq7nfcfgvjhs8
+l: mfhmshvfivenfzjhslq7nfcfgvjhs8
+r: mfhmshv5nfzjhslq7nfcfgvjhs8
+1: 57
+2: 58
+58
+toSan: seven3248
+l: seven3248
+r: 73248
+1: 78
+2: 78
+78
+toSan: pvpdpxpg135seven9vpcpgrzlpjblmd
+l: pvpdpxpg135seven9vpcpgrzlpjblmd
+r: pvpdpxpg13579vpcpgrzlpjblmd
+1: 18
+2: 19
+19
+toSan: shnslhthreefourtwodnpfr7seven
+l: shnslhthreefourtwodnpfr7seven
+r: shnslh3fourtwodnpfr77
+1: 39
+2: 37
+37
+toSan: 6hxhhmfivesixseven
+l: 6hxhhmfivesixseven
+r: 6hxhhm5six7
+1: 67
+2: 67
+67
+toSan: vppgmfivethreefivesevensix2two
+l: vppgmfivethreefivesevensix2two
+r: vppgm5threefivesevensix22
+1: 57
+2: 52
+52
+toSan: hp98
+l: hp98
+r: hp98
+1: 92
+2: 98
+98
+toSan: phlskgmgrjsbtq2gkjvrgsd
+l: phlskgmgrjsbtq2gkjvrgsd
+r: phlskgmgrjsbtq2gkjvrgsd
+1: 28
+2: 22
+22
+toSan: kkfourthree9fhnpdqcqhtwo
+l: kkfourthree9fhnpdqcqhtwo
+r: kk4three9fhnpdqcqh2
+1: 42
+2: 42
+42
+toSan: ftnvkprhvllkh9n
+l: ftnvkprhvllkh9n
+r: ftnvkprhvllkh9n
+1: 92
+2: 99
+99
+toSan: 71one7twofourfourqtfmc6
+l: 71one7twofourfourqtfmc6
+r: 7117twofour4qtfmc6
+1: 79
+2: 76
+76
+toSan: eightfivehssmqsptconefive4
+l: eightfivehssmqsptconefive4
+r: 8fivehssmqsptcone54
+1: 86
+2: 84
+84
+toSan: ninejcfqknhcfpcbcsmnpvn4six5j
+l: ninejcfqknhcfpcbcsmnpvn4six5j
+r: 9jcfqknhcfpcbcsmnpvn465j
+1: 94
+2: 95
+95
+toSan: one7jvmtxkjzfive
+l: one7jvmtxkjzfive
+r: 17jvmtxkjz5
+1: 15
+2: 15
+15
+toSan: twof9pqcgdfqsq4d7
+l: twof9pqcgdfqsq4d7
+r: 2f9pqcgdfqsq4d7
+1: 25
+2: 27
+27
+toSan: krczdrpxbhsngqdvsqb1four7mb7lldv
+l: krczdrpxbhsngqdvsqb1four7mb7lldv
+r: krczdrpxbhsngqdvsqb147mb7lldv
+1: 17
+2: 17
+17
+toSan: seven9634tgcsplgmfivetwo
+l: seven9634tgcsplgmfivetwo
+r: 79634tgcsplgmfive2
+1: 77
+2: 72
+72
+toSan: vjvpstpbgtsevennvpsvch97rslh4onefour
+l: vjvpstpbgtsevennvpsvch97rslh4onefour
+r: vjvpstpbgt7nvpsvch97rslh4one4
+1: 72
+2: 74
+74
+toSan: zbtgjgq23seven7lbnzdpnkzf
+l: zbtgjgq23seven7lbnzdpnkzf
+r: zbtgjgq2377lbnzdpnkzf
+1: 24
+2: 27
+27
+toSan: zndbhclr714
+l: zndbhclr714
+r: zndbhclr714
+1: 77
+2: 74
+74
+toSan: twofive3
+l: twofive3
+r: 253
+1: 24
+2: 23
+23
+toSan: 9eight2twojxzdkptwo
+l: 9eight2twojxzdkptwo
+r: 982twojxzdkp2
+1: 93
+2: 92
+92
+toSan: gzqfcqpxnfhtb28dvfeight38
+l: gzqfcqpxnfhtb28dvfeight38
+r: gzqfcqpxnfhtb28dvf838
+1: 22
+2: 28
+28
+toSan: rsqvgsqv9tdlvssj
+l: rsqvgsqv9tdlvssj
+r: rsqvgsqv9tdlvssj
+1: 98
+2: 99
+99
+toSan: f78hjftphgcv8bqgrckgldone
+l: f78hjftphgcv8bqgrckgldone
+r: f78hjftphgcv8bqgrckgld1
+1: 79
+2: 71
+71
+toSan: fivethreetjg2
+l: fivethreetjg2
+r: 53tjg2
+1: 51
+2: 52
+52
+toSan: 6vtqgdkxsmj
+l: 6vtqgdkxsmj
+r: 6vtqgdkxsmj
+1: 62
+2: 66
+66
+toSan: xgjdndnpsevenzfl6tfgxltvcthree
+l: xgjdndnpsevenzfl6tfgxltvcthree
+r: xgjdndnp7zfl6tfgxltvc3
+1: 76
+2: 73
+73
+toSan: threenine82gqnffkvm
+l: threenine82gqnffkvm
+r: 3982gqnffkvm
+1: 33
+2: 32
+32
+toSan: zmlblc4fiveseven3two
+l: zmlblc4fiveseven3two
+r: zmlblc45seven32
+1: 42
+2: 42
+42
+toSan: msmlvbnqbt9
+l: msmlvbnqbt9
+r: msmlvbnqbt9
+1: 92
+2: 99
+99
+toSan: 144bfcbsjztmdldveight
+l: 144bfcbsjztmdldveight
+r: 144bfcbsjztmdldv8
+1: 19
+2: 18
+18
+toSan: chceightwofivemcfrxv266
+l: chceightwofivemcfrxv266
+r: chc8wo5mcfrxv266
+1: 88
+2: 86
+86
+toSan: two9f7gzhhsf6
+l: two9f7gzhhsf6
+r: 29f7gzhhsf6
+1: 26
+2: 26
+26
+toSan: ninetwoffour8sevenjngv
+l: ninetwoffour8sevenjngv
+r: 9twoffour87jngv
+1: 96
+2: 97
+97
+toSan: foureight22g7twoonemlvq
+l: foureight22g7twoonemlvq
+r: 4eight22g7two1mlvq
+1: 47
+2: 41
+41
+toSan: one78ptfgbbvx
+l: one78ptfgbbvx
+r: 178ptfgbbvx
+1: 11
+2: 18
+18
+toSan: fx5
+l: fx5
+r: fx5
+1: 58
+2: 55
+55
+toSan: 5rvz2two
+l: 5rvz2two
+r: 5rvz22
+1: 55
+2: 52
+52
+toSan: 913
+l: 913
+r: 913
+1: 92
+2: 93
+93
+toSan: 9eightnkvhcksoneqsqgntfthdtjm
+l: 9eightnkvhcksoneqsqgntfthdtjm
+r: 98nkvhcks1qsqgntfthdtjm
+1: 93
+2: 91
+91
+toSan: one1sixcsccdvbxzx
+l: one1sixcsccdvbxzx
+r: 116csccdvbxzx
+1: 11
+2: 16
+16
+toSan: sevenoneninethree4one7seven2
+l: sevenoneninethree4one7seven2
+r: 7oneninethree4one772
+1: 76
+2: 72
+72
+toSan: jqseightwockmxjd3gfmlhbn6seven7sevenkhcr
+l: jqseightwockmxjd3gfmlhbn6seven7sevenkhcr
+r: jqs8wockmxjd3gfmlhbn6seven77khcr
+1: 82
+2: 87
+87
+toSan: sevenqqhs4onemcn
+l: sevenqqhs4onemcn
+r: 7qqhs41mcn
+1: 77
+2: 71
+71
+toSan: fourseven3nine7pcn
+l: fourseven3nine7pcn
+r: 4seven397pcn
+1: 41
+2: 47
+47
+toSan: sjjpsthkdfeightcsvlcvhltv6
+l: sjjpsthkdfeightcsvlcvhltv6
+r: sjjpsthkdf8csvlcvhltv6
+1: 87
+2: 86
+86
+toSan: qpc16five
+l: qpc16five
+r: qpc165
+1: 16
+2: 15
+15
+toSan: 3jplhrj2threetwofpvrthree
+l: 3jplhrj2threetwofpvrthree
+r: 3jplhrj23twofpvr3
+1: 35
+2: 33
+33
+toSan: 4sixsix9two
+l: 4sixsix9two
+r: 46six92
+1: 43
+2: 42
+42
+toSan: one1eighteight
+l: one1eighteight
+r: 11eight8
+1: 12
+2: 18
+18
+toSan: 5tg
+l: 5tg
+r: 5tg
+1: 58
+2: 55
+55
+toSan: 256five9
+l: 256five9
+r: 25659
+1: 25
+2: 29
+29
+toSan: seven9crnff9eighteight
+l: seven9crnff9eighteight
+r: 79crnff9eight8
+1: 79
+2: 78
+78
+toSan: 16five1one4kqllsltrtn
+l: 16five1one4kqllsltrtn
+r: 165114kqllsltrtn
+1: 18
+2: 14
+14
+toSan: eight3three
+l: eight3three
+r: 833
+1: 84
+2: 83
+83
+toSan: seventwoqtlxj8
+l: seventwoqtlxj8
+r: 72qtlxj8
+1: 73
+2: 78
+78
+toSan: 74seven5
+l: 74seven5
+r: 7475
+1: 78
+2: 75
+75
+toSan: 2five7mmgsbfc
+l: 2five7mmgsbfc
+r: 257mmgsbfc
+1: 25
+2: 27
+27
+toSan: five7four
+l: five7four
+r: 574
+1: 57
+2: 54
+54
+toSan: bmtkcxvcj997eight
+l: bmtkcxvcj997eight
+r: bmtkcxvcj9978
+1: 94
+2: 98
+98
+toSan: cpgrpgxtgkqr9
+l: cpgrpgxtgkqr9
+r: cpgrpgxtgkqr9
+1: 98
+2: 99
+99
+toSan: sevenmdqtqhfvnknine929xm
+l: sevenmdqtqhfvnknine929xm
+r: 7mdqtqhfvnk9929xm
+1: 79
+2: 79
+79
+toSan: nsix27vzglsevenseven63
+l: nsix27vzglsevenseven63
+r: n627vzglseven763
+1: 69
+2: 63
+63
+toSan: six1nqpsgtrllsnhmbnqxrdvrcx8s
+l: six1nqpsgtrllsnhmbnqxrdvrcx8s
+r: 61nqpsgtrllsnhmbnqxrdvrcx8s
+1: 63
+2: 68
+68
+toSan: eighttwoflrvzfq262
+l: eighttwoflrvzfq262
+r: 82flrvzfq262
+1: 88
+2: 82
+82
+toSan: twosxtf866hfhxn4fourone
+l: twosxtf866hfhxn4fourone
+r: 2sxtf866hfhxn4four1
+1: 22
+2: 21
+21
+toSan: 3fourzbrtmd47three
+l: 3fourzbrtmd47three
+r: 34zbrtmd473
+1: 31
+2: 33
+33
+toSan: four99eightbcldqfvrm
+l: four99eightbcldqfvrm
+r: 4998bcldqfvrm
+1: 43
+2: 48
+48
+toSan: 871
+l: 871
+r: 871
+1: 88
+2: 81
+81
+toSan: 2twobdtnzzqgvfggjntvgpnqslbdctppnfzpfpcbvzqccq
+l: 2twobdtnzzqgvfggjntvgpnqslbdctppnfzpfpcbvzqccq
+r: 22bdtnzzqgvfggjntvgpnqslbdctppnfzpfpcbvzqccq
+1: 21
+2: 22
+22
+toSan: sdmkzhb8lnpjntj7
+l: sdmkzhb8lnpjntj7
+r: sdmkzhb8lnpjntj7
+1: 82
+2: 87
+87
+toSan: threembr1
+l: threembr1
+r: 3mbr1
+1: 37
+2: 31
+31
+toSan: 5fd1sevenpsdpdlnb16
+l: 5fd1sevenpsdpdlnb16
+r: 5fd17psdpdlnb16
+1: 51
+2: 56
+56
+toSan: 7mnkkvpzrrnslfksrninexmpnfpbzhkx
+l: 7mnkkvpzrrnslfksrninexmpnfpbzhkx
+r: 7mnkkvpzrrnslfksr9xmpnfpbzhkx
+1: 76
+2: 79
+79
+toSan: nfrnvtt8
+l: nfrnvtt8
+r: nfrnvtt8
+1: 89
+2: 88
+88
+toSan: 24dsffiveqzmjrjznfksrknrfn
+l: 24dsffiveqzmjrjznfksrknrfn
+r: 24dsf5qzmjrjznfksrknrfn
+1: 28
+2: 25
+25
+toSan: 5foureight3pn3
+l: 5foureight3pn3
+r: 5483pn3
+1: 55
+2: 53
+53
+toSan: nine9three
+l: nine9three
+r: 993
+1: 93
+2: 93
+93
+toSan: nine74cmxrdvcxf3pdhbfour
+l: nine74cmxrdvcxf3pdhbfour
+r: 974cmxrdvcxf3pdhb4
+1: 93
+2: 94
+94
+toSan: frjnzrsixone53eight
+l: frjnzrsixone53eight
+r: frjnzr6one538
+1: 64
+2: 68
+68
+toSan: four41fourhfjnjhpkzp
+l: four41fourhfjnjhpkzp
+r: 4414hfjnjhpkzp
+1: 48
+2: 44
+44
+toSan: 939rdjhlfpjsix
+l: 939rdjhlfpjsix
+r: 939rdjhlfpj6
+1: 94
+2: 96
+96
+toSan: 4kdkcq9two
+l: 4kdkcq9two
+r: 4kdkcq92
+1: 46
+2: 42
+42
+toSan: 329fivefive98
+l: 329fivefive98
+r: 3295598
+1: 32
+2: 38
+38
+toSan: 65485
+l: 65485
+r: 65485
+1: 68
+2: 65
+65
+toSan: dfsevensixmdbfour7jhxsfourfour
+l: dfsevensixmdbfour7jhxsfourfour
+r: df7sixmdbfour7jhxsfour4
+1: 75
+2: 74
+74
+toSan: rqtwonerdkf3eight6fourfour
+l: rqtwonerdkf3eight6fourfour
+r: rq2nerdkf3eight6four4
+1: 24
+2: 24
+24
+toSan: twoqnfthree5fx
+l: twoqnfthree5fx
+r: 2qnf35fx
+1: 24
+2: 25
+25
+toSan: rtwone1two89ntwo9
+l: rtwone1two89ntwo9
+r: r2ne1two89n29
+1: 25
+2: 29
+29
+toSan: sixskqssbccfour7fivevcmsevendqbfcvks
+l: sixskqssbccfour7fivevcmsevendqbfcvks
+r: 6skqssbccfour7fivevcm7dqbfcvks
+1: 69
+2: 67
+67
+toSan: sgtwovmzmzm9
+l: sgtwovmzmzm9
+r: sg2vmzmzm9
+1: 27
+2: 29
+29
+toSan: vk9
+l: vk9
+r: vk9
+1: 99
+2: 99
+99
+toSan: seventhree4
+l: seventhree4
+r: 734
+1: 79
+2: 74
+74
+toSan: 48mv3eightnine
+l: 48mv3eightnine
+r: 48mv389
+1: 44
+2: 49
+49
+toSan: six7gxnj4six3
+l: six7gxnj4six3
+r: 67gxnj463
+1: 69
+2: 63
+63
+toSan: twotwosixlm55dmzdrntzthreeseven
+l: twotwosixlm55dmzdrntzthreeseven
+r: 2twosixlm55dmzdrntzthree7
+1: 23
+2: 27
+27
+toSan: fivemhcdlm8fivemkffllv9
+l: fivemhcdlm8fivemkffllv9
+r: 5mhcdlm85mkffllv9
+1: 57
+2: 59
+59
+toSan: fkxzdh69twoonesbrfhntk
+l: fkxzdh69twoonesbrfhntk
+r: fkxzdh6921sbrfhntk
+1: 69
+2: 61
+61
+toSan: zfourthreeseven1kllk
+l: zfourthreeseven1kllk
+r: z4three71kllk
+1: 41
+2: 41
+41
+toSan: 6ninethreefiveqdct
+l: 6ninethreefiveqdct
+r: 69three5qdct
+1: 61
+2: 65
+65
+toSan: nineeight136three5nxvj
+l: nineeight136three5nxvj
+r: 9eight13635nxvj
+1: 95
+2: 95
+95
+toSan: fivecpbkhqxpmf46twotxtfrhmvboneone
+l: fivecpbkhqxpmf46twotxtfrhmvboneone
+r: 5cpbkhqxpmf46twotxtfrhmvbone1
+1: 55
+2: 51
+51
+toSan: brrfqninetwohgqnkfctkseven1
+l: brrfqninetwohgqnkfctkseven1
+r: brrfq9twohgqnkfctk71
+1: 91
+2: 91
+91
+toSan: npblhpcpfivehdsnine34
+l: npblhpcpfivehdsnine34
+r: npblhpcp5hds934
+1: 51
+2: 54
+54
+toSan: vksix4fourvrbfmjcrhb78
+l: vksix4fourvrbfmjcrhb78
+r: vk644vrbfmjcrhb78
+1: 64
+2: 68
+68
+toSan: 72xfmds46threefive
+l: 72xfmds46threefive
+r: 72xfmds4635
+1: 78
+2: 75
+75
+toSan: five1kq8eight56three
+l: five1kq8eight56three
+r: 51kq8eight563
+1: 55
+2: 53
+53
+toSan: 3sevenfvcsglnjtbhdkqf
+l: 3sevenfvcsglnjtbhdkqf
+r: 37fvcsglnjtbhdkqf
+1: 33
+2: 37
+37
+toSan: 6tr6qxqrmstqg
+l: 6tr6qxqrmstqg
+r: 6tr6qxqrmstqg
+1: 67
+2: 66
+66
+toSan: 15five5
+l: 15five5
+r: 1555
+1: 16
+2: 15
+15
+toSan: fthfvffour85
+l: fthfvffour85
+r: fthfvf485
+1: 45
+2: 45
+45
+toSan: seven81fouronefive
+l: seven81fouronefive
+r: 781fourone5
+1: 75
+2: 75
+75
+toSan: dhkknlbfjrnsfcvvkk9seveneightwos
+l: dhkknlbfjrnsfcvvkk9seveneightwos
+r: dhkknlbfjrnsfcvvkk97eigh2s
+1: 95
+2: 92
+92
+toSan: 2lngrlvrk4shgktcbpfonefivenine2
+l: 2lngrlvrk4shgktcbpfonefivenine2
+r: 2lngrlvrk4shgktcbpf1five92
+1: 22
+2: 22
+22
+toSan: sevenhhlrfqmzn2
+l: sevenhhlrfqmzn2
+r: 7hhlrfqmzn2
+1: 72
+2: 72
+72
+toSan: 6seven927gdczblhjlmrxnjqfktwoneq
+l: 6seven927gdczblhjlmrxnjqfktwoneq
+r: 67927gdczblhjlmrxnjqfktw1q
+1: 62
+2: 61
+61
+toSan: 7phbj9fourvbx31seven6
+l: 7phbj9fourvbx31seven6
+r: 7phbj94vbx3176
+1: 71
+2: 76
+76
+toSan: 146
+l: 146
+r: 146
+1: 16
+2: 16
+16
+toSan: jnqxslzpsxdftrqczq764
+l: jnqxslzpsxdftrqczq764
+r: jnqxslzpsxdftrqczq764
+1: 76
+2: 74
+74
+toSan: tmbjdldtwogfvxhnvsfp8tzzp
+l: tmbjdldtwogfvxhnvsfp8tzzp
+r: tmbjdld2gfvxhnvsfp8tzzp
+1: 24
+2: 28
+28
+toSan: fourgv68bblxfktsfdg98
+l: fourgv68bblxfktsfdg98
+r: 4gv68bblxfktsfdg98
+1: 48
+2: 48
+48
+toSan: 36tnrmd2jrllk2npbrctjcjthm
+l: 36tnrmd2jrllk2npbrctjcjthm
+r: 36tnrmd2jrllk2npbrctjcjthm
+1: 38
+2: 32
+32
+toSan: mx3nine3hkslkb5
+l: mx3nine3hkslkb5
+r: mx393hkslkb5
+1: 32
+2: 35
+35
+toSan: xvmgtlzmrfjcmqgtworc3
+l: xvmgtlzmrfjcmqgtworc3
+r: xvmgtlzmrfjcmqg2rc3
+1: 25
+2: 23
+23
+toSan: vxscrns1lclnxtwo
+l: vxscrns1lclnxtwo
+r: vxscrns1lclnx2
+1: 13
+2: 12
+12
+toSan: foursevenone534
+l: foursevenone534
+r: 4seven1534
+1: 42
+2: 44
+44
+toSan: jdmrj1sixkzdxn
+l: jdmrj1sixkzdxn
+r: jdmrj16kzdxn
+1: 14
+2: 16
+16
+toSan: two9threenine
+l: two9threenine
+r: 29three9
+1: 26
+2: 29
+29
+toSan: 2sevendsmlzh13jlslmvtnine
+l: 2sevendsmlzh13jlslmvtnine
+r: 27dsmlzh13jlslmvt9
+1: 29
+2: 29
+29
+toSan: nine8nine
+l: nine8nine
+r: 989
+1: 99
+2: 99
+99
+toSan: gthbsq953kxckzppcxqzl3
+l: gthbsq953kxckzppcxqzl3
+r: gthbsq953kxckzppcxqzl3
+1: 99
+2: 93
+93
+toSan: xnrgzjzrbp5rptrpbsdgsqfeight5
+l: xnrgzjzrbp5rptrpbsdgsqfeight5
+r: xnrgzjzrbp5rptrpbsdgsqf85
+1: 53
+2: 55
+55
+toSan: 1sevendnmxkpdsrmrfkpmxcq22sixmdmvqlgpnbcxf
+l: 1sevendnmxkpdsrmrfkpmxcq22sixmdmvqlgpnbcxf
+r: 17dnmxkpdsrmrfkpmxcq226mdmvqlgpnbcxf
+1: 15
+2: 16
+16
+toSan: eight658x14fq
+l: eight658x14fq
+r: 8658x14fq
+1: 86
+2: 84
+84
+toSan: rzvgmdltnz9nvthrjvpzqf
+l: rzvgmdltnz9nvthrjvpzqf
+r: rzvgmdltnz9nvthrjvpzqf
+1: 94
+2: 99
+99
+toSan: 9oneightgl
+l: 9oneightgl
+r: 91ightgl
+1: 99
+2: 91
+91
+toSan: dsbtb88
+l: dsbtb88
+r: dsbtb88
+1: 81
+2: 88
+88
+toSan: three4fourninelzvqhvjpk6
+l: three4fourninelzvqhvjpk6
+r: 34four9lzvqhvjpk6
+1: 38
+2: 36
+36
+toSan: seven59fourthreed
+l: seven59fourthreed
+r: 759four3d
+1: 76
+2: 73
+73
+toSan: 3671
+l: 3671
+r: 3671
+1: 33
+2: 31
+31
+toSan: 66nineeight8two
+l: 66nineeight8two
+r: 669eight82
+1: 61
+2: 62
+62
+toSan: eightlszxlsxlcq3sixskqhj4gkblpj
+l: eightlszxlsxlcq3sixskqhj4gkblpj
+r: 8lszxlsxlcq36skqhj4gkblpj
+1: 82
+2: 84
+84
+toSan: three2eighttwothree
+l: three2eighttwothree
+r: 32eighttwo3
+1: 34
+2: 33
+33
+toSan: nine853qttjrjptxttwortkhmjss
+l: nine853qttjrjptxttwortkhmjss
+r: 9853qttjrjptxt2rtkhmjss
+1: 93
+2: 92
+92
+toSan: twosix35
+l: twosix35
+r: 2635
+1: 22
+2: 25
+25
+toSan: 5948lspjxzpbmthfive
+l: 5948lspjxzpbmthfive
+r: 5948lspjxzpbmth5
+1: 55
+2: 55
+55
+toSan: fourthree8
+l: fourthree8
+r: 438
+1: 45
+2: 48
+48
+toSan: fourfivevbbqpppqrkkzjqqbnine3
+l: fourfivevbbqpppqrkkzjqqbnine3
+r: 4fivevbbqpppqrkkzjqqb93
+1: 48
+2: 43
+43
+toSan: 8nine4xszllqzzonesix2nine
+l: 8nine4xszllqzzonesix2nine
+r: 894xszllqzzonesix29
+1: 83
+2: 89
+89
+toSan: crgnbqrfourrzjbpnnsqthreethreefbnine85
+l: crgnbqrfourrzjbpnnsqthreethreefbnine85
+r: crgnbqr4rzjbpnnsqthreethreefb985
+1: 49
+2: 45
+45
+toSan: dx79xjkcpxsndsrbnjlbnine2
+l: dx79xjkcpxsndsrbnjlbnine2
+r: dx79xjkcpxsndsrbnjlb92
+1: 75
+2: 72
+72
+toSan: 9nine89
+l: 9nine89
+r: 9989
+1: 92
+2: 99
+99
+toSan: one7qmv1
+l: one7qmv1
+r: 17qmv1
+1: 19
+2: 11
+11
+toSan: dlpbzxfm536392fp
+l: dlpbzxfm536392fp
+r: dlpbzxfm536392fp
+1: 51
+2: 52
+52
+toSan: 3seventhree8eighttwoeightfive
+l: 3seventhree8eighttwoeightfive
+r: 37three8eighttwoeight5
+1: 32
+2: 35
+35
+toSan: twongjrfkcb66
+l: twongjrfkcb66
+r: 2ngjrfkcb66
+1: 25
+2: 26
+26
+toSan: 2eightseven8
+l: 2eightseven8
+r: 2878
+1: 26
+2: 28
+28
+toSan: zffrln57eighttbqsgzbzhrzxt5kxxlcxb
+l: zffrln57eighttbqsgzbzhrzxt5kxxlcxb
+r: zffrln578tbqsgzbzhrzxt5kxxlcxb
+1: 58
+2: 55
+55
+toSan: one5three621ninetwonnprsbmm
+l: one5three621ninetwonnprsbmm
+r: 15three621nine2nnprsbmm
+1: 15
+2: 12
+12
+toSan: 3vmslzzp8xcpcgvf
+l: 3vmslzzp8xcpcgvf
+r: 3vmslzzp8xcpcgvf
+1: 32
+2: 38
+38
+toSan: threesix93
+l: threesix93
+r: 3693
+1: 38
+2: 33
+33
+toSan: seven3sixfnbbbeighttwo1fivezglzb
+l: seven3sixfnbbbeighttwo1fivezglzb
+r: 73sixfnbbbeighttwo15zglzb
+1: 73
+2: 75
+75
+toSan: kgk7
+l: kgk7
+r: kgk7
+1: 75
+2: 77
+77
+toSan: 48seven2ccztcfnv5tzkrxffour
+l: 48seven2ccztcfnv5tzkrxffour
+r: 4872ccztcfnv5tzkrxf4
+1: 47
+2: 44
+44
+toSan: xczvzdjthreeeight6hnffivexxtmqs79
+l: xczvzdjthreeeight6hnffivexxtmqs79
+r: xczvzdj3eight6hnf5xxtmqs79
+1: 34
+2: 39
+39
+toSan: three4nine36threehjp
+l: three4nine36threehjp
+r: 34nine363hjp
+1: 39
+2: 33
+33
+toSan: nineqtdtmmpjpkzpxmmfive83sevenseventhree
+l: nineqtdtmmpjpkzpxmmfive83sevenseventhree
+r: 9qtdtmmpjpkzpxmmfive83sevenseven3
+1: 93
+2: 93
+93
+toSan: 22jfdpndrcvxbgz
+l: 22jfdpndrcvxbgz
+r: 22jfdpndrcvxbgz
+1: 23
+2: 22
+22
+toSan: 7bljfctkbpc
+l: 7bljfctkbpc
+r: 7bljfctkbpc
+1: 72
+2: 77
+77
+toSan: 4bfblqrphseven
+l: 4bfblqrphseven
+r: 4bfblqrph7
+1: 47
+2: 47
+47
+toSan: fklxmcqxthmnvrlc9
+l: fklxmcqxthmnvrlc9
+r: fklxmcqxthmnvrlc9
+1: 97
+2: 99
+99
+toSan: 4seven9zspgftgvd53dsdkhgbns46
+l: 4seven9zspgftgvd53dsdkhgbns46
+r: 479zspgftgvd53dsdkhgbns46
+1: 49
+2: 46
+46
+toSan: 7seven664fdqkcqtr9
+l: 7seven664fdqkcqtr9
+r: 77664fdqkcqtr9
+1: 76
+2: 79
+79
+toSan: dvxtkqfqbhrllbone3six3
+l: dvxtkqfqbhrllbone3six3
+r: dvxtkqfqbhrllb1363
+1: 19
+2: 13
+13
+toSan: 4ktplgtgzlf3eightfxslssr
+l: 4ktplgtgzlf3eightfxslssr
+r: 4ktplgtgzlf38fxslssr
+1: 43
+2: 48
+48
+toSan: six2bhsjknjmgdddgnb6tbhvxbf29nine
+l: six2bhsjknjmgdddgnb6tbhvxbf29nine
+r: 62bhsjknjmgdddgnb6tbhvxbf299
+1: 68
+2: 69
+69
+toSan: two93twofngr8four
+l: two93twofngr8four
+r: 293twofngr84
+1: 29
+2: 24
+24
+toSan: oneoneftmqvblcrjnng7jvch97one
+l: oneoneftmqvblcrjnng7jvch97one
+r: 1oneftmqvblcrjnng7jvch971
+1: 14
+2: 11
+11
+toSan: 9fivexmzstmlrmztwohsqmzfivehseven
+l: 9fivexmzstmlrmztwohsqmzfivehseven
+r: 95xmzstmlrmztwohsqmzfiveh7
+1: 91
+2: 97
+97
+toSan: 5two2hggzchnn
+l: 5two2hggzchnn
+r: 522hggzchnn
+1: 57
+2: 52
+52
+toSan: one28ptdlfourgnrjftqd4vxfdrfx7
+l: one28ptdlfourgnrjftqd4vxfdrfx7
+r: 128ptdl4gnrjftqd4vxfdrfx7
+1: 12
+2: 17
+17
+toSan: six6zvkcszt4tfpkeightvdkjzbb
+l: six6zvkcszt4tfpkeightvdkjzbb
+r: 66zvkcszt4tfpk8vdkjzbb
+1: 67
+2: 68
+68
+toSan: 7oneftjp
+l: 7oneftjp
+r: 71ftjp
+1: 78
+2: 71
+71
+toSan: 1sevenseven9fsp
+l: 1sevenseven9fsp
+r: 1779fsp
+1: 11
+2: 19
+19
+toSan: jqtznvrq8one11fivesix
+l: jqtznvrq8one11fivesix
+r: jqtznvrq8111five6
+1: 89
+2: 86
+86
+toSan: 3ninedkqxtmoneighthkt
+l: 3ninedkqxtmoneighthkt
+r: 39dkqxtmon8hkt
+1: 36
+2: 38
+38
+toSan: 8k
+l: 8k
+r: 8k
+1: 88
+2: 88
+88
+toSan: 931
+l: 931
+r: 931
+1: 98
+2: 91
+91
+toSan: clhvprlljttm9
+l: clhvprlljttm9
+r: clhvprlljttm9
+1: 91
+2: 99
+99
+toSan: four14bfgf4eightwoc
+l: four14bfgf4eightwoc
+r: 414bfgf4eigh2c
+1: 49
+2: 42
+42
+toSan: xrflnnfb2rlv7twoseven2six
+l: xrflnnfb2rlv7twoseven2six
+r: xrflnnfb2rlv72seven26
+1: 22
+2: 26
+26
+toSan: 6366hlgklvjvxxlbkxgb
+l: 6366hlgklvjvxxlbkxgb
+r: 6366hlgklvjvxxlbkxgb
+1: 66
+2: 66
+66
+toSan: nbkxvp3eightgnznqqjbt5seven
+l: nbkxvp3eightgnznqqjbt5seven
+r: nbkxvp38gnznqqjbt57
+1: 36
+2: 37
+37
+toSan: 98sntdts
+l: 98sntdts
+r: 98sntdts
+1: 97
+2: 98
+98
+toSan: cneightwotdkfxxxjfdpz3zkkthree
+l: cneightwotdkfxxxjfdpz3zkkthree
+r: cn8wotdkfxxxjfdpz3zkk3
+1: 88
+2: 83
+83
+toSan: five1sfhq1lhhvjb
+l: five1sfhq1lhhvjb
+r: 51sfhq1lhhvjb
+1: 53
+2: 51
+51
+toSan: zdd56tcdchkvnbn
+l: zdd56tcdchkvnbn
+r: zdd56tcdchkvnbn
+1: 51
+2: 56
+56
+toSan: sevenhtpbmbntfivethree9scjfivenine
+l: sevenhtpbmbntfivethree9scjfivenine
+r: 7htpbmbntfivethree9scjfive9
+1: 76
+2: 79
+79
+toSan: 2spxggcvsvm4msdszqtml
+l: 2spxggcvsvm4msdszqtml
+r: 2spxggcvsvm4msdszqtml
+1: 29
+2: 24
+24
+toSan: 4twoxsevencjgnine
+l: 4twoxsevencjgnine
+r: 42xsevencjg9
+1: 44
+2: 49
+49
+toSan: 89eightonetwo3ghqbckqkn
+l: 89eightonetwo3ghqbckqkn
+r: 898one23ghqbckqkn
+1: 89
+2: 83
+83
+toSan: fvsgljnzgzfive1slhbxxhsrlmfivexqnkmtnzx
+l: fvsgljnzgzfive1slhbxxhsrlmfivexqnkmtnzx
+r: fvsgljnzgz51slhbxxhsrlm5xqnkmtnzx
+1: 53
+2: 55
+55
+toSan: 1g1
+l: 1g1
+r: 1g1
+1: 15
+2: 11
+11
+toSan: 94mcreight
+l: 94mcreight
+r: 94mcr8
+1: 91
+2: 98
+98
+toSan: threefntlsvvfnine9
+l: threefntlsvvfnine9
+r: 3fntlsvvf99
+1: 38
+2: 39
+39
+toSan: b3hnhvjhtrrv
+l: b3hnhvjhtrrv
+r: b3hnhvjhtrrv
+1: 39
+2: 33
+33
+toSan: 11fourthree46
+l: 11fourthree46
+r: 114346
+1: 13
+2: 16
+16
+toSan: plhclxcjrsgspx3b8fivecbx
+l: plhclxcjrsgspx3b8fivecbx
+r: plhclxcjrsgspx3b85cbx
+1: 36
+2: 35
+35
+toSan: mvjxqnqxtwo89bfive
+l: mvjxqnqxtwo89bfive
+r: mvjxqnqx289b5
+1: 25
+2: 25
+25
+toSan: three9nkjrh6two3
+l: three9nkjrh6two3
+r: 39nkjrh623
+1: 35
+2: 33
+33
+toSan: dgprgjdgcrtqxgvknnk9six
+l: dgprgjdgcrtqxgvknnk9six
+r: dgprgjdgcrtqxgvknnk96
+1: 93
+2: 96
+96
+toSan: dmbljtqg66zxjr95nine2seven
+l: dmbljtqg66zxjr95nine2seven
+r: dmbljtqg66zxjr95927
+1: 66
+2: 67
+67
+toSan: vdxoneight6
+l: vdxoneight6
+r: vdx1ight6
+1: 17
+2: 16
+16
+toSan: 22two9
+l: 22two9
+r: 2229
+1: 26
+2: 29
+29
+toSan: 7oneppgrjnmrvchvsznsgfivexxdt7
+l: 7oneppgrjnmrvchvsznsgfivexxdt7
+r: 71ppgrjnmrvchvsznsg5xxdt7
+1: 79
+2: 77
+77
+toSan: 1three4mzc
+l: 1three4mzc
+r: 134mzc
+1: 17
+2: 14
+14
+toSan: bdnhvtsjmdnklsxbtmnztqjtpnz6fivesevenfourzddgsrfmlq
+l: bdnhvtsjmdnklsxbtmnztqjtpnz6fivesevenfourzddgsrfmlq
+r: bdnhvtsjmdnklsxbtmnztqjtpnz65seven4zddgsrfmlq
+1: 64
+2: 64
+64
+toSan: krzm2twotwo65sixfhpplvcgcs
+l: krzm2twotwo65sixfhpplvcgcs
+r: krzm22two656fhpplvcgcs
+1: 24
+2: 26
+26
+toSan: qzcvbvsfive1oneqzc9threesevenseven
+l: qzcvbvsfive1oneqzc9threesevenseven
+r: qzcvbvs51oneqzc9threeseven7
+1: 56
+2: 57
+57
+toSan: threesixninekghkvvzd4
+l: threesixninekghkvvzd4
+r: 3six9kghkvvzd4
+1: 37
+2: 34
+34
+toSan: txqjpmlvdlpm7
+l: txqjpmlvdlpm7
+r: txqjpmlvdlpm7
+1: 74
+2: 77
+77
+toSan: eightsix1l96xrljgg
+l: eightsix1l96xrljgg
+r: 861l96xrljgg
+1: 87
+2: 86
+86
+toSan: two63d32six
+l: two63d32six
+r: 263d326
+1: 26
+2: 26
+26
+toSan: 8nine1fivesixfive3eightwos
+l: 8nine1fivesixfive3eightwos
+r: 891fivesixfive3eigh2s
+1: 86
+2: 82
+82
+toSan: sixninenkrpsix2nf4
+l: sixninenkrpsix2nf4
+r: 6ninenkrp62nf4
+1: 62
+2: 64
+64
+toSan: four2seven35four9threensbv
+l: four2seven35four9threensbv
+r: 42seven35four93nsbv
+1: 44
+2: 43
+43
+toSan: ncjhcskrx6
+l: ncjhcskrx6
+r: ncjhcskrx6
+1: 63
+2: 66
+66
+toSan: 3eightcpssngjlsqvmsxqqpldhsxsthreelzgzn
+l: 3eightcpssngjlsqvmsxqqpldhsxsthreelzgzn
+r: 38cpssngjlsqvmsxqqpldhsxs3lzgzn
+1: 36
+2: 33
+33
+toSan: 6zjnmxrgcz
+l: 6zjnmxrgcz
+r: 6zjnmxrgcz
+1: 63
+2: 66
+66
+toSan: 9bbvkvnbmzshtdzxgqnqmqtthree
+l: 9bbvkvnbmzshtdzxgqnqmqtthree
+r: 9bbvkvnbmzshtdzxgqnqmqt3
+1: 96
+2: 93
+93
+toSan: four2kqmzfgvpk35rhmqhtrqmfourhjxxfour
+l: four2kqmzfgvpk35rhmqhtrqmfourhjxxfour
+r: 42kqmzfgvpk35rhmqhtrqmfourhjxx4
+1: 43
+2: 44
+44
+toSan: 9eightfivefrpqtzmkkgkvjbbqmsqvq
+l: 9eightfivefrpqtzmkkgkvjbbqmsqvq
+r: 985frpqtzmkkgkvjbbqmsqvq
+1: 94
+2: 95
+95
+toSan: eightsevenzpskfbrmcgzjjpnlgr51bdlcmsxhf
+l: eightsevenzpskfbrmcgzjjpnlgr51bdlcmsxhf
+r: 87zpskfbrmcgzjjpnlgr51bdlcmsxhf
+1: 85
+2: 81
+81
+toSan: pt8two6seveneightjsqxjmlf4six
+l: pt8two6seveneightjsqxjmlf4six
+r: pt826seveneightjsqxjmlf46
+1: 81
+2: 86
+86
+toSan: phjclrmpzm1292gdfivenine
+l: phjclrmpzm1292gdfivenine
+r: phjclrmpzm1292gd59
+1: 16
+2: 19
+19
+toSan: sixfourtwo1
+l: sixfourtwo1
+r: 6four21
+1: 69
+2: 61
+61
+toSan: 9tvcnzknine2rdnqfive81
+l: 9tvcnzknine2rdnqfive81
+r: 9tvcnzk92rdnq581
+1: 91
+2: 91
+91
+toSan: sixtwopvxjcnmone2kxzxgmn
+l: sixtwopvxjcnmone2kxzxgmn
+r: 6twopvxjcnm12kxzxgmn
+1: 61
+2: 62
+62
+toSan: twosixpcntbtfivenine4two
+l: twosixpcntbtfivenine4two
+r: 2sixpcntbtfivenine42
+1: 22
+2: 22
+22
+toSan: rxdgeightone86twobzmnlgkdc
+l: rxdgeightone86twobzmnlgkdc
+r: rxdg8one862bzmnlgkdc
+1: 82
+2: 82
+82
+toSan: 4two1twovtldl8one
+l: 4two1twovtldl8one
+r: 421twovtldl81
+1: 42
+2: 41
+41
+toSan: fiveb1
+l: fiveb1
+r: 5b1
+1: 51
+2: 51
+51
+toSan: 212three6twofour84
+l: 212three6twofour84
+r: 21236two484
+1: 21
+2: 24
+24
+toSan: 74tstlfmrmcj
+l: 74tstlfmrmcj
+r: 74tstlfmrmcj
+1: 74
+2: 74
+74
+toSan: sixgxtwotmrmzkfsj9
+l: sixgxtwotmrmzkfsj9
+r: 6gx2tmrmzkfsj9
+1: 64
+2: 69
+69
+toSan: eighthksxmf144xltwo8
+l: eighthksxmf144xltwo8
+r: 8hksxmf144xl28
+1: 89
+2: 88
+88
+toSan: mthjxjhnqxnhcbxg783
+l: mthjxjhnqxnhcbxg783
+r: mthjxjhnqxnhcbxg783
+1: 78
+2: 73
+73
+toSan: prptwonehhdlrd71threeone
+l: prptwonehhdlrd71threeone
+r: prp2nehhdlrd71three1
+1: 23
+2: 21
+21
+toSan: 59fivefnsmzfsix
+l: 59fivefnsmzfsix
+r: 595fnsmzf6
+1: 51
+2: 56
+56
+toSan: ninesixonetwo9six6jtptone
+l: ninesixonetwo9six6jtptone
+r: 9sixonetwo9six6jtpt1
+1: 96
+2: 91
+91
+toSan: eight9ninefivezqvpstsevenjvcjmdcscnzlqsfnhnrnmn
+l: eight9ninefivezqvpstsevenjvcjmdcscnzlqsfnhnrnmn
+r: 89ninefivezqvpst7jvcjmdcscnzlqsfnhnrnmn
+1: 81
+2: 87
+87
+toSan: 2ckgjml4rcprzj7tp6
+l: 2ckgjml4rcprzj7tp6
+r: 2ckgjml4rcprzj7tp6
+1: 27
+2: 26
+26
+toSan: sevenfivesevennhg136
+l: sevenfivesevennhg136
+r: 7five7nhg136
+1: 76
+2: 76
+76
+toSan: ninesevenvhl5
+l: ninesevenvhl5
+r: 97vhl5
+1: 96
+2: 95
+95
+toSan: fzflrseven1five5seven
+l: fzflrseven1five5seven
+r: fzflr71five57
+1: 75
+2: 77
+77
+toSan: seven5lcfxp
+l: seven5lcfxp
+r: 75lcfxp
+1: 77
+2: 75
+75
+toSan: bqhjg4three3
+l: bqhjg4three3
+r: bqhjg433
+1: 45
+2: 43
+43
+toSan: three8ninegtonetwo46
+l: three8ninegtonetwo46
+r: 38ninegtone246
+1: 33
+2: 36
+36
+toSan: cvdpr8
+l: cvdpr8
+r: cvdpr8
+1: 86
+2: 88
+88
+toSan: 32fivehfsdhxgjnn
+l: 32fivehfsdhxgjnn
+r: 325hfsdhxgjnn
+1: 38
+2: 35
+35
+toSan: sdndcpccpvdzdgn9fourlnslcmbtwojphzpnvrnp
+l: sdndcpccpvdzdgn9fourlnslcmbtwojphzpnvrnp
+r: sdndcpccpvdzdgn94lnslcmb2jphzpnvrnp
+1: 95
+2: 92
+92
+toSan: 9cqkgdf7fxgdfcllvnnmzpptninesixone9
+l: 9cqkgdf7fxgdfcllvnnmzpptninesixone9
+r: 9cqkgdf7fxgdfcllvnnmzppt9six19
+1: 92
+2: 99
+99
+toSan: 3chllzcgq5fivebffm9
+l: 3chllzcgq5fivebffm9
+r: 3chllzcgq55bffm9
+1: 39
+2: 39
+39
+toSan: sqmtj4qlhlcrmrnb38v4dsix
+l: sqmtj4qlhlcrmrnb38v4dsix
+r: sqmtj4qlhlcrmrnb38v4d6
+1: 49
+2: 46
+46
+toSan: sevennine84bcpvqjcrxpvtcgfhlfhncplktf
+l: sevennine84bcpvqjcrxpvtcgfhlfhncplktf
+r: 7984bcpvqjcrxpvtcgfhlfhncplktf
+1: 76
+2: 74
+74
+toSan: qkzxvstdgnfour4two
+l: qkzxvstdgnfour4two
+r: qkzxvstdgn442
+1: 44
+2: 42
+42
+toSan: jkhoneonesixfiveone14lvzn
+l: jkhoneonesixfiveone14lvzn
+r: jkh1onesixfive114lvzn
+1: 12
+2: 14
+14
+toSan: threethreefivensvlbfour2four
+l: threethreefivensvlbfour2four
+r: 3threefivensvlbfour24
+1: 34
+2: 34
+34
+toSan: vgqlhqfrlfourlzcgppdbhq57
+l: vgqlhqfrlfourlzcgppdbhq57
+r: vgqlhqfrl4lzcgppdbhq57
+1: 44
+2: 47
+47
+toSan: bqzpzbtwolprtwo9
+l: bqzpzbtwolprtwo9
+r: bqzpzb2lpr29
+1: 27
+2: 29
+29
+toSan: lfjs9six1five2fzcldvnpxtmhsix
+l: lfjs9six1five2fzcldvnpxtmhsix
+r: lfjs961five2fzcldvnpxtmh6
+1: 99
+2: 96
+96
+toSan: kslcntz36nine
+l: kslcntz36nine
+r: kslcntz369
+1: 36
+2: 39
+39
+toSan: nineseven8rzccgfhzsjnjveighttwo
+l: nineseven8rzccgfhzsjnjveighttwo
+r: 9seven8rzccgfhzsjnjveight2
+1: 99
+2: 92
+92
+toSan: three3fourfivedmjlgqfhmninemst8
+l: three3fourfivedmjlgqfhmninemst8
+r: 33fourfivedmjlgqfhm9mst8
+1: 32
+2: 38
+38
+toSan: 4qxvzgfvctwo73
+l: 4qxvzgfvctwo73
+r: 4qxvzgfvc273
+1: 48
+2: 43
+43
+toSan: 75961fivefourzg
+l: 75961fivefourzg
+r: 7596154zg
+1: 73
+2: 74
+74
+toSan: spcbt66sevennine4four
+l: spcbt66sevennine4four
+r: spcbt667nine44
+1: 64
+2: 64
+64
+toSan: hhb1
+l: hhb1
+r: hhb1
+1: 14
+2: 11
+11
+toSan: dtmoneight9
+l: dtmoneight9
+r: dtm1ight9
+1: 11
+2: 19
+19
+toSan: 3mbctjhfmr2fourthreeseven86
+l: 3mbctjhfmr2fourthreeseven86
+r: 3mbctjhfmr24three786
+1: 39
+2: 36
+36
+toSan: sixjsbmvzql6gfnttq
+l: sixjsbmvzql6gfnttq
+r: 6jsbmvzql6gfnttq
+1: 66
+2: 66
+66
+toSan: 1vknfgmznmnzpgvsp3bsksdsevenfourrk
+l: 1vknfgmznmnzpgvsp3bsksdsevenfourrk
+r: 1vknfgmznmnzpgvsp3bsksd74rk
+1: 16
+2: 14
+14
+toSan: six4six7ninepfxjsshthree
+l: six4six7ninepfxjsshthree
+r: 64six7ninepfxjssh3
+1: 64
+2: 63
+63
+toSan: 4rqgzpnqcg8skfgksjone3four8
+l: 4rqgzpnqcg8skfgksjone3four8
+r: 4rqgzpnqcg8skfgksj1348
+1: 43
+2: 48
+48
+toSan: seven5zkljftwo
+l: seven5zkljftwo
+r: 75zkljf2
+1: 78
+2: 72
+72
+toSan: 76sctscqtsfcninefourrgmsbsxv9six
+l: 76sctscqtsfcninefourrgmsbsxv9six
+r: 76sctscqtsfc9fourrgmsbsxv96
+1: 72
+2: 76
+76
+toSan: 46fpdqhkfjzgtclfchbbsjcbjhsbkqggzhlb6four
+l: 46fpdqhkfjzgtclfchbbsjcbjhsbkqggzhlb6four
+r: 46fpdqhkfjzgtclfchbbsjcbjhsbkqggzhlb64
+1: 46
+2: 44
+44
+toSan: bshbvfourzc79lvvdsqjksmzmqpbvrsrbtg7
+l: bshbvfourzc79lvvdsqjksmzmqpbvrsrbtg7
+r: bshbv4zc79lvvdsqjksmzmqpbvrsrbtg7
+1: 44
+2: 47
+47
+toSan: jdqmtfeight59fourtwo
+l: jdqmtfeight59fourtwo
+r: jdqmtf859four2
+1: 87
+2: 82
+82
+toSan: ninefivejsl3
+l: ninefivejsl3
+r: 95jsl3
+1: 92
+2: 93
+93
+toSan: 94z7fouroneeight
+l: 94z7fouroneeight
+r: 94z74one8
+1: 93
+2: 98
+98
+toSan: 5nbmvgheightfive
+l: 5nbmvgheightfive
+r: 5nbmvgh85
+1: 58
+2: 55
+55
+toSan: sixseven5one9ngk3
+l: sixseven5one9ngk3
+r: 6seven519ngk3
+1: 65
+2: 63
+63
+toSan: eight3jddmgqnzcfjsvrd6five6kmbxss
+l: eight3jddmgqnzcfjsvrd6five6kmbxss
+r: 83jddmgqnzcfjsvrd656kmbxss
+1: 83
+2: 86
+86
+toSan: seveneight9fourthree
+l: seveneight9fourthree
+r: 7eight9four3
+1: 76
+2: 73
+73
+toSan: eight83
+l: eight83
+r: 883
+1: 83
+2: 83
+83
+toSan: 3spltxvtbg
+l: 3spltxvtbg
+r: 3spltxvtbg
+1: 33
+2: 33
+33
+toSan: 92shzldthreefpckdtqhm7fivezzkdlz
+l: 92shzldthreefpckdtqhm7fivezzkdlz
+r: 92shzld3fpckdtqhm75zzkdlz
+1: 93
+2: 95
+95
+toSan: 6two9threeztrzxphhksqc
+l: 6two9threeztrzxphhksqc
+r: 6293ztrzxphhksqc
+1: 65
+2: 63
+63
+toSan: ninedlone3
+l: ninedlone3
+r: 9dl13
+1: 93
+2: 93
+93
+toSan: eight4nineonefournsmdgkdszt
+l: eight4nineonefournsmdgkdszt
+r: 84nineone4nsmdgkdszt
+1: 83
+2: 84
+84
+toSan: 9cpxhnksktwo15fivefkq
+l: 9cpxhnksktwo15fivefkq
+r: 9cpxhnksk2155fkq
+1: 94
+2: 95
+95
+toSan: 144eight77
+l: 144eight77
+r: 144877
+1: 15
+2: 17
+17
+toSan: 1sixjscflltdrgclmgrszdfive7lc
+l: 1sixjscflltdrgclmgrszdfive7lc
+r: 16jscflltdrgclmgrszd57lc
+1: 17
+2: 17
+17
+toSan: ttmfsx9dzgcqjzlzhvlfqrsj4six
+l: ttmfsx9dzgcqjzlzhvlfqrsj4six
+r: ttmfsx9dzgcqjzlzhvlfqrsj46
+1: 97
+2: 96
+96
+toSan: 846
+l: 846
+r: 846
+1: 86
+2: 86
+86
+toSan: fiveseven7
+l: fiveseven7
+r: 577
+1: 56
+2: 57
+57
+toSan: kqtwone2ninefour7fghmntkn
+l: kqtwone2ninefour7fghmntkn
+r: kq2ne2nine47fghmntkn
+1: 27
+2: 27
+27
+toSan: 8r8one
+l: 8r8one
+r: 8r81
+1: 87
+2: 81
+81
+toSan: 5nnzqqgxl4gbgnzntfrhqzeight
+l: 5nnzqqgxl4gbgnzntfrhqzeight
+r: 5nnzqqgxl4gbgnzntfrhqz8
+1: 51
+2: 58
+58
+toSan: onevpkxvrone8
+l: onevpkxvrone8
+r: 1vpkxvr18
+1: 18
+2: 18
+18
+toSan: 79klfd
+l: 79klfd
+r: 79klfd
+1: 78
+2: 79
+79
+toSan: gzrjvck1sixqnfdjxfive9eightcmhmsjpl
+l: gzrjvck1sixqnfdjxfive9eightcmhmsjpl
+r: gzrjvck16qnfdjxfive98cmhmsjpl
+1: 19
+2: 18
+18
+toSan: nszqhdfsixsixb3threenfiveqskccbffd
+l: nszqhdfsixsixb3threenfiveqskccbffd
+r: nszqhdf6sixb3threen5qskccbffd
+1: 68
+2: 65
+65
+toSan: srbn928eight
+l: srbn928eight
+r: srbn9288
+1: 95
+2: 98
+98
+toSan: eight2eightfivekmnjkndgrhjdpvxk3
+l: eight2eightfivekmnjkndgrhjdpvxk3
+r: 82eight5kmnjkndgrhjdpvxk3
+1: 88
+2: 83
+83
+toSan: 9four11oneeight
+l: 9four11oneeight
+r: 9411one8
+1: 93
+2: 98
+98
+toSan: seven6fivezzktmsixv
+l: seven6fivezzktmsixv
+r: 76fivezzktm6v
+1: 78
+2: 76
+76
+toSan: fivebvtnzr4threeonetld68
+l: fivebvtnzr4threeonetld68
+r: 5bvtnzr4three1tld68
+1: 56
+2: 58
+58
+toSan: mgbfjcjbqctt71fgdbmmqdlhpxnpmvx
+l: mgbfjcjbqctt71fgdbmmqdlhpxnpmvx
+r: mgbfjcjbqctt71fgdbmmqdlhpxnpmvx
+1: 78
+2: 71
+71
+toSan: rjprxbxrfk233
+l: rjprxbxrfk233
+r: rjprxbxrfk233
+1: 21
+2: 23
+23
+toSan: nxbjxbcvvskeightfiveglpnhbzz27four
+l: nxbjxbcvvskeightfiveglpnhbzz27four
+r: nxbjxbcvvsk8fiveglpnhbzz274
+1: 83
+2: 84
+84
+toSan: kstwo2
+l: kstwo2
+r: ks22
+1: 24
+2: 22
+22
+toSan: 2btbzfournbfcxnvlvcbsjmplnprcrg
+l: 2btbzfournbfcxnvlvcbsjmplnprcrg
+r: 2btbz4nbfcxnvlvcbsjmplnprcrg
+1: 22
+2: 24
+24
+toSan: mkk6three271
+l: mkk6three271
+r: mkk63271
+1: 64
+2: 61
+61
+toSan: tfncrvlnfdmntdrmjqqtknsgpq671onethree
+l: tfncrvlnfdmntdrmjqqtknsgpq671onethree
+r: tfncrvlnfdmntdrmjqqtknsgpq67113
+1: 61
+2: 63
+63
+toSan: eight8twofivex
+l: eight8twofivex
+r: 88two5x
+1: 83
+2: 85
+85
+toSan: phreightfive81hftbkbdnztt
+l: phreightfive81hftbkbdnztt
+r: phr8581hftbkbdnztt
+1: 85
+2: 81
+81
+toSan: onetbhqqlcbqrlfzrqbtbl9ntcgvxr1rhgrspqkgklz
+l: onetbhqqlcbqrlfzrqbtbl9ntcgvxr1rhgrspqkgklz
+r: 1tbhqqlcbqrlfzrqbtbl9ntcgvxr1rhgrspqkgklz
+1: 11
+2: 11
+11
+toSan: gckbonekhzcjhdb5
+l: gckbonekhzcjhdb5
+r: gckb1khzcjhdb5
+1: 11
+2: 15
+15
+toSan: twothree1lfivetwolpdxhn8
+l: twothree1lfivetwolpdxhn8
+r: 2three1lfive2lpdxhn8
+1: 25
+2: 28
+28
+toSan: threebqmxgpjfbzrrrrgdt8
+l: threebqmxgpjfbzrrrrgdt8
+r: 3bqmxgpjfbzrrrrgdt8
+1: 38
+2: 38
+38
+toSan: threejvlpxpfm9four4threeone
+l: threejvlpxpfm9four4threeone
+r: 3jvlpxpfm9four4three1
+1: 38
+2: 31
+31
+toSan: five68onesevennineone9two
+l: five68onesevennineone9two
+r: 568onesevennineone92
+1: 51
+2: 52
+52
+toSan: mjqjrqmeight73
+l: mjqjrqmeight73
+r: mjqjrqm873
+1: 82
+2: 83
+83
+toSan: fvfgrdppszgdhmninenineone7759
+l: fvfgrdppszgdhmninenineone7759
+r: fvfgrdppszgdhm9nine17759
+1: 93
+2: 99
+99
+toSan: lrhchsonek3twobblvn9bdmcbt
+l: lrhchsonek3twobblvn9bdmcbt
+r: lrhchs1k32bblvn9bdmcbt
+1: 19
+2: 19
+19
+toSan: mdcqxbz84five6ninetwonergj
+l: mdcqxbz84five6ninetwonergj
+r: mdcqxbz8456ninetw1rgj
+1: 89
+2: 81
+81
+toSan: eightnine548ttfiveeight7
+l: eightnine548ttfiveeight7
+r: 8nine548ttfive87
+1: 81
+2: 87
+87
+toSan: 74mfftzxhkl4
+l: 74mfftzxhkl4
+r: 74mfftzxhkl4
+1: 77
+2: 74
+74
+toSan: seven5mdmrxlp
+l: seven5mdmrxlp
+r: 75mdmrxlp
+1: 74
+2: 75
+75
+toSan: ptb76ndfpbtljpkhjthdfmsdddjssm
+l: ptb76ndfpbtljpkhjthdfmsdddjssm
+r: ptb76ndfpbtljpkhjthdfmsdddjssm
+1: 75
+2: 76
+76
+toSan: 7vkeight
+l: 7vkeight
+r: 7vk8
+1: 76
+2: 78
+78
+toSan: bzzpvht5fourthreeseven8
+l: bzzpvht5fourthreeseven8
+r: bzzpvht54three78
+1: 58
+2: 58
+58
+toSan: rztztsix12nine
+l: rztztsix12nine
+r: rztzt6129
+1: 68
+2: 69
+69
+toSan: fvpqdnphtd1mmrhppbd2
+l: fvpqdnphtd1mmrhppbd2
+r: fvpqdnphtd1mmrhppbd2
+1: 19
+2: 12
+12
+toSan: h8dpbvs2tjlqgfxhhbeight
+l: h8dpbvs2tjlqgfxhhbeight
+r: h8dpbvs2tjlqgfxhhb8
+1: 82
+2: 88
+88
+toSan: 51one
+l: 51one
+r: 511
+1: 58
+2: 51
+51
+toSan: two86
+l: two86
+r: 286
+1: 21
+2: 26
+26
+toSan: sixnine7sixseventwo34
+l: sixnine7sixseventwo34
+r: 6nine7sixseven234
+1: 66
+2: 64
+64
+toSan: two45xjcpcnhgbsb1five7
+l: two45xjcpcnhgbsb1five7
+r: 245xjcpcnhgbsb157
+1: 24
+2: 27
+27
+toSan: qqkzvpsixfivepfzdhtl92six4rhp
+l: qqkzvpsixfivepfzdhtl92six4rhp
+r: qqkzvp6fivepfzdhtl9264rhp
+1: 67
+2: 64
+64
+toSan: two6vqtxvxrvzpz
+l: two6vqtxvxrvzpz
+r: 26vqtxvxrvzpz
+1: 24
+2: 26
+26
+toSan: 1qqsfrgdbsm8five
+l: 1qqsfrgdbsm8five
+r: 1qqsfrgdbsm85
+1: 16
+2: 15
+15
+toSan: threeeightsix36xvtm
+l: threeeightsix36xvtm
+r: 3eight636xvtm
+1: 35
+2: 36
+36
+toSan: nine5eightczhsix3twoprztckvb
+l: nine5eightczhsix3twoprztckvb
+r: 95eightczhsix32prztckvb
+1: 96
+2: 92
+92
+toSan: pxrsgpszonepdjvxcblqzkr61seven11
+l: pxrsgpszonepdjvxcblqzkr61seven11
+r: pxrsgpsz1pdjvxcblqzkr61711
+1: 12
+2: 11
+11
+toSan: 5sevenonesevensix4six1dvhrx
+l: 5sevenonesevensix4six1dvhrx
+r: 57onesevensix461dvhrx
+1: 51
+2: 51
+51
+toSan: cdxnbseven9qsevenvbv4
+l: cdxnbseven9qsevenvbv4
+r: cdxnb79q7vbv4
+1: 71
+2: 74
+74
+toSan: sixlgjt3
+l: sixlgjt3
+r: 6lgjt3
+1: 64
+2: 63
+63
+toSan: dhpxhpbkq3lc6rkjlpdz4five5pctfzsplrf
+l: dhpxhpbkq3lc6rkjlpdz4five5pctfzsplrf
+r: dhpxhpbkq3lc6rkjlpdz455pctfzsplrf
+1: 33
+2: 35
+35
+toSan: 1kmsmgjpmkqfckr
+l: 1kmsmgjpmkqfckr
+r: 1kmsmgjpmkqfckr
+1: 15
+2: 11
+11
+toSan: sixeight1k44
+l: sixeight1k44
+r: 681k44
+1: 61
+2: 64
+64
+toSan: 52qdfp1b8
+l: 52qdfp1b8
+r: 52qdfp1b8
+1: 54
+2: 58
+58
+toSan: 86fourthree42
+l: 86fourthree42
+r: 864342
+1: 88
+2: 82
+82
+toSan: six2fourpjtsvskrxtmgxnj2one3dn
+l: six2fourpjtsvskrxtmgxnj2one3dn
+r: 62fourpjtsvskrxtmgxnj213dn
+1: 62
+2: 63
+63
+toSan: rjtfqxvfm88seventhreeeighttwo
+l: rjtfqxvfm88seventhreeeighttwo
+r: rjtfqxvfm887threeeight2
+1: 83
+2: 82
+82
+toSan: fivepgfvxcds64sevenhg
+l: fivepgfvxcds64sevenhg
+r: 5pgfvxcds647hg
+1: 52
+2: 57
+57
+toSan: glvhcrgbtphxfsfourthreerqhjxpzone5gh
+l: glvhcrgbtphxfsfourthreerqhjxpzone5gh
+r: glvhcrgbtphxfs4threerqhjxpz15gh
+1: 47
+2: 45
+45
+toSan: 1sevenone34
+l: 1sevenone34
+r: 17134
+1: 15
+2: 14
+14
+toSan: 689five9ninetwotwo4
+l: 689five9ninetwotwo4
+r: 68959ninetwo24
+1: 64
+2: 64
+64
+toSan: 6two92sixjb1cbhmrq
+l: 6two92sixjb1cbhmrq
+r: 62926jb1cbhmrq
+1: 64
+2: 61
+61
+toSan: fiverrvllhbgcsskh2
+l: fiverrvllhbgcsskh2
+r: 5rrvllhbgcsskh2
+1: 51
+2: 52
+52
+toSan: foureight6fhtx1five8eight
+l: foureight6fhtx1five8eight
+r: 4eight6fhtx1five88
+1: 42
+2: 48
+48
+toSan: pqvvjkhtxkxcjkrf9mn
+l: pqvvjkhtxkxcjkrf9mn
+r: pqvvjkhtxkxcjkrf9mn
+1: 98
+2: 99
+99
+toSan: threefive2hs6one6jhkbdh
+l: threefive2hs6one6jhkbdh
+r: 3five2hs616jhkbdh
+1: 39
+2: 36
+36
+toSan: twoninefzflrqqzvp2xnr8
+l: twoninefzflrqqzvp2xnr8
+r: 29fzflrqqzvp2xnr8
+1: 26
+2: 28
+28
+toSan: one51
+l: one51
+r: 151
+1: 18
+2: 11
+11
+toSan: 7bjpnfsgpszrfk5fourthreebvvn
+l: 7bjpnfsgpszrfk5fourthreebvvn
+r: 7bjpnfsgpszrfk543bvvn
+1: 71
+2: 73
+73
+toSan: six74
+l: six74
+r: 674
+1: 63
+2: 64
+64
+toSan: twozcgbrrhxcpznx9dlcgdchpndcdc
+l: twozcgbrrhxcpznx9dlcgdchpndcdc
+r: 2zcgbrrhxcpznx9dlcgdchpndcdc
+1: 24
+2: 29
+29
+toSan: nines566
+l: nines566
+r: 9s566
+1: 99
+2: 96
+96
+toSan: one72zshxlsix
+l: one72zshxlsix
+r: 172zshxl6
+1: 16
+2: 16
+16
+toSan: vseven4fouronenine6
+l: vseven4fouronenine6
+r: v74fourone96
+1: 76
+2: 76
+76
+toSan: 7four1nine2threekzjbs4
+l: 7four1nine2threekzjbs4
+r: 741nine23kzjbs4
+1: 76
+2: 74
+74
+toSan: onecq3four
+l: onecq3four
+r: 1cq34
+1: 14
+2: 14
+14
+toSan: twodcrx8
+l: twodcrx8
+r: 2dcrx8
+1: 24
+2: 28
+28
+toSan: four35sjjhpfftzsixfqctsfonefiveseven
+l: four35sjjhpfftzsixfqctsfonefiveseven
+r: 435sjjhpfftzsixfqctsfonefive7
+1: 48
+2: 47
+47
+toSan: sxqnssjtwothree2
+l: sxqnssjtwothree2
+r: sxqnssj232
+1: 27
+2: 22
+22
+toSan: 8fdpjrztwoseventwo5rmqvoneeight
+l: 8fdpjrztwoseventwo5rmqvoneeight
+r: 8fdpjrz2seventwo5rmqvone8
+1: 82
+2: 88
+88
+toSan: pjlbnl3rg3shchseven
+l: pjlbnl3rg3shchseven
+r: pjlbnl3rg3shch7
+1: 38
+2: 37
+37
+toSan: zdcrnpddv2
+l: zdcrnpddv2
+r: zdcrnpddv2
+1: 27
+2: 22
+22
+toSan: eight2foureighttgjcxtf2
+l: eight2foureighttgjcxtf2
+r: 82four8tgjcxtf2
+1: 82
+2: 82
+82
+toSan: ghhxlxqttvonerh96715twonectr
+l: ghhxlxqttvonerh96715twonectr
+r: ghhxlxqttv1rh96715tw1ctr
+1: 12
+2: 11
+11
+toSan: 9hmfxxrsdbsixbtwo7sevensix
+l: 9hmfxxrsdbsixbtwo7sevensix
+r: 9hmfxxrsdb6btwo7seven6
+1: 91
+2: 96
+96
+toSan: 32ghjqjfp7three4one
+l: 32ghjqjfp7three4one
+r: 32ghjqjfp7341
+1: 36
+2: 31
+31
+toSan: 197
+l: 197
+r: 197
+1: 11
+2: 17
+17
+toSan: twon8five2
+l: twon8five2
+r: 2n852
+1: 27
+2: 22
+22
+toSan: vtwobrlhqsq1twothreesixthree
+l: vtwobrlhqsq1twothreesixthree
+r: v2brlhqsq1twothreesix3
+1: 22
+2: 23
+23
+toSan: xbdxninefour8seven
+l: xbdxninefour8seven
+r: xbdx9four87
+1: 93
+2: 97
+97
+toSan: five39
+l: five39
+r: 539
+1: 57
+2: 59
+59
+toSan: 621eightsix
+l: 621eightsix
+r: 62186
+1: 69
+2: 66
+66
+toSan: 21fvdd11tsdzhjspzld4
+l: 21fvdd11tsdzhjspzld4
+r: 21fvdd11tsdzhjspzld4
+1: 26
+2: 24
+24
+toSan: 7seventwoeightfpnkhxmvc
+l: 7seventwoeightfpnkhxmvc
+r: 77two8fpnkhxmvc
+1: 74
+2: 78
+78
+toSan: 96sjrcvzxsevenfqt4seven9
+l: 96sjrcvzxsevenfqt4seven9
+r: 96sjrcvzx7fqt479
+1: 98
+2: 99
+99
+toSan: xzxmtsrhbfivenineninerxgcrx9one
+l: xzxmtsrhbfivenineninerxgcrx9one
+r: xzxmtsrhb5nineninerxgcrx91
+1: 59
+2: 51
+51
+toSan: 5pzgmrgrg2kdgl9one
+l: 5pzgmrgrg2kdgl9one
+r: 5pzgmrgrg2kdgl91
+1: 51
+2: 51
+51
+toSan: lqzmttxcpp7cnfstnhtglzhssntjmsixseven6six
+l: lqzmttxcpp7cnfstnhtglzhssntjmsixseven6six
+r: lqzmttxcpp7cnfstnhtglzhssntjm6seven66
+1: 71
+2: 76
+76
+toSan: two711
+l: two711
+r: 2711
+1: 26
+2: 21
+21
+toSan: 6onevjnvmkkx
+l: 6onevjnvmkkx
+r: 61vjnvmkkx
+1: 61
+2: 61
+61
+toSan: eight7dbmznvztwo
+l: eight7dbmznvztwo
+r: 87dbmznvz2
+1: 81
+2: 82
+82
+toSan: 9mlpltkt3
+l: 9mlpltkt3
+r: 9mlpltkt3
+1: 92
+2: 93
+93
+toSan: 7ninenine4tpjbsbtsgzttlgrtnfvr91four
+l: 7ninenine4tpjbsbtsgzttlgrtnfvr91four
+r: 79nine4tpjbsbtsgzttlgrtnfvr914
+1: 73
+2: 74
+74
+toSan: foursevenq7
+l: foursevenq7
+r: 47q7
+1: 44
+2: 47
+47
+toSan: six1sgtbsmgft9
+l: six1sgtbsmgft9
+r: 61sgtbsmgft9
+1: 67
+2: 69
+69
+toSan: nineone28fourjtwo8
+l: nineone28fourjtwo8
+r: 9one28fourj28
+1: 99
+2: 98
+98
+toSan: 76threebgqvh6lfbkdmfvcthreeone3
+l: 76threebgqvh6lfbkdmfvcthreeone3
+r: 763bgqvh6lfbkdmfvcthree13
+1: 78
+2: 73
+73
+toSan: 13cvtpqnmbv
+l: 13cvtpqnmbv
+r: 13cvtpqnmbv
+1: 13
+2: 13
+13
+toSan: 1sevenzjhtfpbfb73rccvtnmtthree7
+l: 1sevenzjhtfpbfb73rccvtnmtthree7
+r: 17zjhtfpbfb73rccvtnmt37
+1: 13
+2: 17
+17
+toSan: 4xhvshhtmxx7sevenf9
+l: 4xhvshhtmxx7sevenf9
+r: 4xhvshhtmxx77f9
+1: 47
+2: 49
+49
+toSan: 8one1
+l: 8one1
+r: 811
+1: 89
+2: 81
+81
+toSan: 931fivetmdmsrrmfxrplkfvfourthreeeight
+l: 931fivetmdmsrrmfxrplkfvfourthreeeight
+r: 9315tmdmsrrmfxrplkfvfourthree8
+1: 91
+2: 98
+98
+toSan: qzbthffhlg2
+l: qzbthffhlg2
+r: qzbthffhlg2
+1: 28
+2: 22
+22
+toSan: one4eight33
+l: one4eight33
+r: 14833
+1: 12
+2: 13
+13
+toSan: qfjqt9jlcthreeqkfdpfiveeight8scfnlj
+l: qfjqt9jlcthreeqkfdpfiveeight8scfnlj
+r: qfjqt9jlc3qkfdpfive88scfnlj
+1: 93
+2: 98
+98
+toSan: fvczqbtsix2bxkgsnsix5nine7
+l: fvczqbtsix2bxkgsnsix5nine7
+r: fvczqbt62bxkgsnsix597
+1: 68
+2: 67
+67
+toSan: 9qxnvlnine2phnlqzninefive
+l: 9qxnvlnine2phnlqzninefive
+r: 9qxnvl92phnlqznine5
+1: 97
+2: 95
+95
+toSan: tszjsxbsixtwoeight62ffjtdnxxtwofive
+l: tszjsxbsixtwoeight62ffjtdnxxtwofive
+r: tszjsxb6twoeight62ffjtdnxxtwo5
+1: 65
+2: 65
+65
+toSan: one2skxg
+l: one2skxg
+r: 12skxg
+1: 15
+2: 12
+12
+toSan: five5onexzgzkjvtqrfourfive
+l: five5onexzgzkjvtqrfourfive
+r: 55onexzgzkjvtqrfour5
+1: 52
+2: 55
+55
+toSan: twozsxzqtrqbxqqqsbcvfpgdcdpttwo1six
+l: twozsxzqtrqbxqqqsbcvfpgdcdpttwo1six
+r: 2zsxzqtrqbxqqqsbcvfpgdcdpttwo16
+1: 25
+2: 26
+26
+toSan: 8mqkgptxsixhqmbqshcl
+l: 8mqkgptxsixhqmbqshcl
+r: 8mqkgptx6hqmbqshcl
+1: 86
+2: 86
+86
+toSan: lsdlsxrhdqthreesix2sevenchjxvmsjpvrnpcblgmsix
+l: lsdlsxrhdqthreesix2sevenchjxvmsjpvrnpcblgmsix
+r: lsdlsxrhdq3six2sevenchjxvmsjpvrnpcblgm6
+1: 36
+2: 36
+36
+toSan: gngrfrhbxhqkxs5fourr8three4
+l: gngrfrhbxhqkxs5fourr8three4
+r: gngrfrhbxhqkxs54r834
+1: 56
+2: 54
+54
+toSan: jlzszzz9one
+l: jlzszzz9one
+r: jlzszzz91
+1: 94
+2: 91
+91
+toSan: twozrbjkjpzseventwonine8dbmfdjcb
+l: twozrbjkjpzseventwonine8dbmfdjcb
+r: 2zrbjkjpzseventwo98dbmfdjcb
+1: 21
+2: 28
+28
+toSan: 3nine36ppqone4czxvkxjzv
+l: 3nine36ppqone4czxvkxjzv
+r: 3936ppq14czxvkxjzv
+1: 38
+2: 34
+34
+toSan: ld6eightseven6twosix
+l: ld6eightseven6twosix
+r: ld68seven6two6
+1: 64
+2: 66
+66
+toSan: 1jnbfive
+l: 1jnbfive
+r: 1jnb5
+1: 16
+2: 15
+15
+toSan: 7threeglmcdhpvq4723fivethree
+l: 7threeglmcdhpvq4723fivethree
+r: 73glmcdhpvq4723five3
+1: 75
+2: 73
+73
+toSan: seven148oneightd
+l: seven148oneightd
+r: 7148on8d
+1: 73
+2: 78
+78
+toSan: sevensevenseven6sixtwosix21
+l: sevensevenseven6sixtwosix21
+r: 7sevenseven6sixtwo621
+1: 78
+2: 71
+71
+toSan: 8twojhdkdrcqgmclqlldv6sevenonedjthcz
+l: 8twojhdkdrcqgmclqlldv6sevenonedjthcz
+r: 82jhdkdrcqgmclqlldv6seven1djthcz
+1: 81
+2: 81
+81
+toSan: ninesevenggsjbpt5ttlrq
+l: ninesevenggsjbpt5ttlrq
+r: 97ggsjbpt5ttlrq
+1: 91
+2: 95
+95
+toSan: 59sixfivefive
+l: 59sixfivefive
+r: 596five5
+1: 55
+2: 55
+55
+toSan: eight9bsmcgkseventhree66qmgpkkxnpm
+l: eight9bsmcgkseventhree66qmgpkkxnpm
+r: 89bsmcgkseven366qmgpkkxnpm
+1: 85
+2: 86
+86
+toSan: fourthree73fiveseven
+l: fourthree73fiveseven
+r: 4three73five7
+1: 46
+2: 47
+47
+toSan: 9five9six8threet
+l: 9five9six8threet
+r: 959six83t
+1: 97
+2: 93
+93
+toSan: 3eight44
+l: 3eight44
+r: 3844
+1: 33
+2: 34
+34
+toSan: dlcbjflsix5ttvjdxzzeightcffrtfjcjpxtwostrdc
+l: dlcbjflsix5ttvjdxzzeightcffrtfjcjpxtwostrdc
+r: dlcbjfl65ttvjdxzzeightcffrtfjcjpx2strdc
+1: 64
+2: 62
+62
+toSan: fiveone645fivellfcmqqmnine
+l: fiveone645fivellfcmqqmnine
+r: 5one645fivellfcmqqm9
+1: 52
+2: 59
+59
+toSan: hxdtshfive115tfvrzqhgftwojtjrcshgtq
+l: hxdtshfive115tfvrzqhgftwojtjrcshgtq
+r: hxdtsh5115tfvrzqhgf2jtjrcshgtq
+1: 59
+2: 52
+52
+toSan: 6nqrfrhv17jdxpfmmdt4five
+l: 6nqrfrhv17jdxpfmmdt4five
+r: 6nqrfrhv17jdxpfmmdt45
+1: 62
+2: 65
+65
+toSan: sevenxtpjxnrr1
+l: sevenxtpjxnrr1
+r: 7xtpjxnrr1
+1: 75
+2: 71
+71
+toSan: krzkthreegjnqrfbsdrkqptd33rsvrzvvffqhreight
+l: krzkthreegjnqrfbsdrkqptd33rsvrzvvffqhreight
+r: krzk3gjnqrfbsdrkqptd33rsvrzvvffqhr8
+1: 31
+2: 38
+38
+toSan: 472ggfive56hgnvz
+l: 472ggfive56hgnvz
+r: 472gg556hgnvz
+1: 48
+2: 46
+46
+toSan: 12tkpchqtnine
+l: 12tkpchqtnine
+r: 12tkpchqt9
+1: 16
+2: 19
+19
+toSan: vdbsctv6eightth82
+l: vdbsctv6eightth82
+r: vdbsctv68th82
+1: 69
+2: 62
+62
+toSan: fivetngxlttf4
+l: fivetngxlttf4
+r: 5tngxlttf4
+1: 52
+2: 54
+54
+toSan: 5nss
+l: 5nss
+r: 5nss
+1: 54
+2: 55
+55
+toSan: 5onesixsevenphxtmlqhzfcjxrknpv
+l: 5onesixsevenphxtmlqhzfcjxrknpv
+r: 51six7phxtmlqhzfcjxrknpv
+1: 55
+2: 57
+57
+toSan: gldsixrhss186seven6
+l: gldsixrhss186seven6
+r: gld6rhss18676
+1: 67
+2: 66
+66
+toSan: gnpksz4
+l: gnpksz4
+r: gnpksz4
+1: 46
+2: 44
+44
+toSan: 4919
+l: 4919
+r: 4919
+1: 44
+2: 49
+49
+toSan: pbc19
+l: pbc19
+r: pbc19
+1: 19
+2: 19
+19
+value: 56311
