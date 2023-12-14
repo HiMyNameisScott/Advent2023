@@ -11,7 +11,7 @@ char characterArray[xySize][xySize];
 bool checkSymbol(char c);
 bool checkLeft(char arr[xySize][xySize], int row, int col);
 bool checkRight(char arr[xySize][xySize], int row, int col);
-bool searchArea();
+bool searchArea(char arr[xySize][xySize], int row, int col, int& val);
 void assignArray(char arr[xySize][xySize]);
 void printArray(char arr[xySize][xySize]);
 void intializeArray(char arr[xySize][xySize]);
@@ -19,10 +19,16 @@ std::string generateString(char arr[xySize][xySize], int row, int col);
 
 
 int main(){
+    std::vector<string> nums;
 
     intializeArray(characterArray);
     assignArray(characterArray);
     printArray(characterArray);
+
+    // Progress from top left to bottom right
+    // start at index[3], or line 2
+    // check only the current line and the line directly above
+
 
 
     return 0;
@@ -30,7 +36,20 @@ int main(){
 
 std::string generateString(char arr[xySize][xySize], int row, int col, char c){
     std::string str = "";
+
+    for (int i = 0 ; i < xySize ; i++){
+        for (int j = 0 ; j < xySize ; j++){
+            if (checkSymbol(arr[i][j]){
+                int count = 1
+                while (count < 9){
+                    searchArea(arr[xySize], i, j, count)
+                }
+            }
+
+        }
+    }
 }
+
 
 bool checkSymbol(char c){
     bool isSymbol = true;
@@ -43,6 +62,7 @@ bool checkSymbol(char c){
 
     return isSymbol;
 }
+
 
 bool checkLeft(char arr[xySize][xySize], int row, int col){
     bool isLeft = true;
@@ -57,6 +77,8 @@ bool checkLeft(char arr[xySize][xySize], int row, int col){
     return isLeft;
 }
 
+
+
 bool chestRight(char arr[xySize][xySize], int row, int col){
     bool isRight = true;
 
@@ -69,24 +91,58 @@ bool chestRight(char arr[xySize][xySize], int row, int col){
     return isRight;
 }
 
-bool searchArea(){
+bool searchArea(arr[xySize][xySize],int row, int col , int& value){
     // Check Values around the symbol(x)
-    // 1 | 2 | 3
-    // 4 | x | 6
-    // 7 | 8 | 9
+        // 1 | 2 | 3
+        // 4 | x | 6
+        // 7 | 8 | 9
 
     //Coordinates from symbol:
-    // 1 = -1, -1
-    // 2 = -1, 0
-    // 3 = -1, +1
-    // 4 = 0, -1
-    // 6 = 0, +1
-    // 7 = +1, -1
-    // 8 = +1, 0
-    // 9 = +1, +1
+        // 1 = -1, -1
+        // 2 = -1, 0
+        // 3 = -1, +1
+        // 4 = 0, -1
+        // 6 = 0, +1
+        // 7 = +1, -1
+        // 8 = +1, 0
+        // 9 = +1, +1
 
+
+    switch(val){
+        case 1;
+            if(isdigit([row-1][col-1])){
+
+            }
+            break;
+        case 2;
+            
+            break;
+        case 3;
+            
+            break;
+        case 4;
+            
+            break;
+        case 5;
+            
+            break;
+        case 6;
+            
+            break;
+        case 7;
+            
+            break;
+        case 8;
+            
+            break;
+        case 9;
+            
+            break;
+        default:
+            val++
+            break;
+    }
     
-
     // Do we.. loop through 1- 4, 6 - 9 and find the strings during the loop
     // Or do we return coordinates to the start of the strings, and have another function deal with the coordinates.
     return true;
