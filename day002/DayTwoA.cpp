@@ -20,6 +20,12 @@ int main(){
     readInData(gamesPlayed);
 
     cout << findTruth(gamesPlayed) << endl;
+
+    cout << '\n';
+
+    // for (int i = 0 ; i < gamesPlayed.size() ; ++i){
+    //     cout << gamesPlayed.at(i) << endl;
+    // }
     
     return 0;
 }
@@ -41,14 +47,17 @@ void readInData(std::vector<int>& data){
     fstream fileIn;
     fileIn.open("input.txt");
 
-    while (fileIn.peek() == 'G'){
-        fileIn.ignore(7, ':');
+    while (fileIn.peek() == 'G' && gameID < 101){
+        fileIn.ignore(10, ':');
         bool gameValid = true;
-        cout << "ID: " << gameID << endl;
+
+        cout << gameID << " : ";
 
         while (fileIn.peek() != '\n' && gameValid == true){
-            fileIn >> colorValue;
-            fileIn >> str;
+            fileIn >> colorValue >> str;
+            cout << colorValue << " " << str << " ";
+           
+
             switch(str[0]) {
                 case 'r':
                     red = colorValue;
@@ -65,20 +74,24 @@ void readInData(std::vector<int>& data){
 
             if (red > 12){
                 gameValid = false;
+                red = 0;
             } else if (green > 13){
                 gameValid = false;
+                green = 0;
             } else if (blue > 14){
                 gameValid = false;
+                blue = 0;
             }
-        }
 
+        }
+        cout << '\n';
         if (gameValid){
             data.push_back(gameID);
             fileIn.ignore();
-            gameID = gameID + 1;
+            gameID = gameID + 1;            
         } else {
-            gameID++;
-            fileIn.ignore(100, '\n');
+            gameID = gameID + 1;
+            fileIn.ignore(10000, '\n');
         }
     }   
 }
