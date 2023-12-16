@@ -7,45 +7,47 @@
 
 using namespace std;
 
-
-int findMatches(std::vector<int>& myNumbers, std::vector<int>& jackPotNumbers);
-int main(){
-    
+struct numbers{
+    int dupes = 0;
     std::vector<int> myNumbers;
     std::vector<int> jackPotNumbers;
+};
 
-    int number;
+
+int findMatches(std::vector<numbers>& a);
+int main(){
+    std::vector<numbers> scratchers;
+
+    int value;
     int answer = 0;
+    int count = 0;
 
     fstream fileIn;
     fileIn.open("input.txt");
 
     cout << (char)fileIn.peek();
 
-    while (fileIn.peek() == 'C'){
+    while (fileIn.peek() == 'C' && count < 223){
 
         fileIn.ignore(10, ':');
+        scratchers.push_back(numbers());
 
         while (fileIn.peek() != '|'){
-            fileIn >> number;
+            fileIn >> value;
             fileIn.ignore();
-            myNumbers.push_back(number);
+            scratchers[count].myNumbers.push_back(value);
         }
 
             fileIn.ignore();
 
         while (fileIn.peek() != '\n'){
-            fileIn >> number;
-            jackPotNumbers.push_back(number);
+            fileIn >> value;
+            scratchers[count].jackPotNumbers.push_back(value);
         }
 
         fileIn.ignore();
 
-        answer = answer + findMatches(myNumbers, jackPotNumbers);
-
-        myNumbers.clear();
-        jackPotNumbers.clear();
-        
+        answer = findMatches(scratchers);
     }
 
     cout << answer << endl;
@@ -58,13 +60,31 @@ int main(){
 /// @param myNumbers 
 /// @param jackPotNumbers 
 /// @return value of pts
-int findMatches(std::vector<int>& myNumbers, std::vector<int>& jackPotNumbers){
+int findMatches(std::vector<numbers>& a){
     int matches = 0;
     int value = 0;
 
-    for (int i = 0 ; i < myNumbers.size() ; i++){
-        if (std::find(jackPotNumbers.begin(), jackPotNumbers.end(), myNumbers.at(i)) != jackPotNumbers.end()){
-            matches++;
+
+    // we start count at 0, 
+        // check for matches
+        // add # of matches starting at i = count ; < # of matches ; i++;
+            // add is just a pushback now
+        
+    for (int i = 0 ; i < a.size() ; i++){
+        matches = 0;
+        for (int j = 0 ; j < a[j].myNumbers.size() ; j++){
+            if (std::find(a[j].jackPotNumbers.begin(), a[j].jackPotNumbers.end(), 
+                        a[j].myNumbers.at(j)) != a[j].jackPotNumbers.end()){
+                matches++;
+            }
+        }
+
+        for (int k = 1; k < matches ; k++){
+            // If duplicate is found calculate number of matches for the card
+            // copy and insert the folling cards into the vector at current index + 1
+            // 
+            a.insert(a.at(i+1),a[i+k]);
+            
         }
     }
 
@@ -76,4 +96,4 @@ int findMatches(std::vector<int>& myNumbers, std::vector<int>& jackPotNumbers){
 };
 
 
-// 10 | 25
+

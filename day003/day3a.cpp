@@ -25,12 +25,6 @@ int main(){
     assignArray(characterArray);
     printArray(characterArray);
 
-    // Progress from top left to bottom right
-    // start at index[3], or line 2
-    // check only the current line and the line directly above
-
-
-
     return 0;
 }
 
@@ -73,7 +67,6 @@ bool checkLeft(char arr[xySize][xySize], int row, int col){
         isLeft = false;
     }
     
-
     return isLeft;
 }
 
