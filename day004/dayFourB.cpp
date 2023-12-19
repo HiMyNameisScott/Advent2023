@@ -83,7 +83,7 @@ int findMatches(std::vector<numbers>& a){
             // If duplicate is found calculate number of matches for the card
             // copy and insert the folling cards into the vector at current index + 1
             // 
-            a.insert(a.at(i+1),a[i+k]);
+            a.insert(a.at(i+1),a[i+k]); //
             
         }
     }
